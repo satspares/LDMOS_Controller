@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDP083N15A-F102
+D Low Gate Charge, QG = 64.5nC ( Typ.); High Power and Current Handling Capability; RoHS Compliant; Fast Switching Speed; High Performance Trench Technology for Extremely Low RDS(on); RDS(on) = 6.85m ( Typ.)@ VGS = 10V, ID = 75A
+K
+F https://www.onsemi.com/pub/Collateral/FDP083N15A-D.pdf
+$ENDCMP
+#
+#End Doc Library

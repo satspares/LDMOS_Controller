@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '3550100RJT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "3550100RJT" (!) = "", "RESC11050X120N", "Resistor Chip", "279-3550100RJT", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/3550100RJT?qs=gZXFycFWdAMoLDipEZ%252BhPg%3D%3D", "CGS - TE CONNECTIVITY - 3550100RJT - SMD Chip Resistor, 100 ohm, +/- 5%, 5 W, 4320 [11050 Metric], Thick Film, High Power", "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773204-6&DocType=DS&DocLang=English", "1.2 mm"
+END_PART
+
+END.

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "IM07GR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "IM07GR")
+        (spec "default")
+    )
+)

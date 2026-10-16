@@ -1,0 +1,16 @@
+.CHSA3920R0003F :1 ;Current Sense Resistors - SMD CHS, 3920 SIZE, 10 Watt, 0.3 mohm, AEC-Q
+CHSA3920R0003F
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CHSA3920R0003F
+~!Mouser Part Number (504-CHSA3920R0003F)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bussmann-Eaton/CHSA3920R0003F?qs=By6Nw2ByBD3h3Nqv5wmZ%252Bw%3D%3D)
+~!Manufacturer_Name (Eaton)
+~!Manufacturer_Part_Number (CHSA3920R0003F)
+~!Link Datasheet (https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-chsa-automotive-smd-current-sense-resistor-metal-shunt-data-sheet-elx1223-en.pdf)
+~!Height (2.26mm)
+~!3D_Model (CHSA3920R0003F)
+CHSA3920R0003F
+1.1!U 2.1!U 

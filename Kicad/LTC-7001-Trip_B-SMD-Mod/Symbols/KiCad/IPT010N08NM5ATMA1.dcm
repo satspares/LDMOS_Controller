@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IPT010N08NM5ATMA1
+D N-Channel 80 V 43A (Ta), 425A (Tc) 3.8W (Ta), 375W (Tc) Surface Mount PG-HSOF-8
+K
+F 
+$ENDCMP
+#
+#End Doc Library

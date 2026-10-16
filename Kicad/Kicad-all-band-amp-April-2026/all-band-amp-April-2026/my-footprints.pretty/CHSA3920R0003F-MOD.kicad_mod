@@ -1,0 +1,236 @@
+(footprint "CHSA3920R0003F-MOD"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "CHSA3920R0003F-2")
+	(tags "Inductor")
+	(property "Reference" "R43"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(uuid "8a51bc74-dbb7-44b6-84ba-69e176d3aef1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "1milli"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "f5659dae-7d1e-4979-8f12-daf27dfa52d1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "52861555-6411-4f9c-aa1d-739629ede5ee")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Resistor"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c624aedf-6f13-46c8-9786-8874b901341b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.3 -2.2)
+		(end 2.5 -2.2)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b89e1c8a-e40a-4118-a30e-f258ed87fd31")
+	)
+	(fp_line
+		(start -2.3 2.1)
+		(end 2.5 2.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "20018348-4987-4d59-8ffc-d21a46486de4")
+	)
+	(fp_line
+		(start -6.5 -4.1)
+		(end 6.5 -4.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "e4ef5681-4d3a-44e7-9220-e8e5dd1c802f")
+	)
+	(fp_line
+		(start -6.5 4.1)
+		(end -6.5 -4.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "db80d237-a951-40c8-98b8-6d928498f788")
+	)
+	(fp_line
+		(start -5 -2.6)
+		(end -5 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "ed732665-35b1-447f-b267-3f88f9d6cd3f")
+	)
+	(fp_line
+		(start -5 2.6)
+		(end 5 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "1b69ac82-12bf-4d34-896b-019cc70a7f4d")
+	)
+	(fp_line
+		(start 5 -2.6)
+		(end -5 -2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "b0322edd-9ae4-402c-95ab-cd1ba8abe759")
+	)
+	(fp_line
+		(start 5 2.6)
+		(end 5 -2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "74db134a-5bd4-4784-b7ed-bd85ce448286")
+	)
+	(fp_line
+		(start 6.5 -4.1)
+		(end 6.5 4.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "1ba2dff1-355b-4feb-873d-245f2b8b756d")
+	)
+	(fp_line
+		(start 6.5 4.1)
+		(end -6.5 4.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "4b46894f-5d35-4dad-ac18-53889508546b")
+	)
+	(fp_rect
+		(start -2.4 -2.6)
+		(end 2.6 2.7)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "9900b080-007a-4f63-9977-e437a39e7e95")
+	)
+	(pad "1" smd rect
+		(at -4.3 0.1)
+		(size 3.5 6.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "6428c4a2-055a-49ce-844c-862447b1caa9")
+	)
+	(pad "2" smd rect
+		(at 4.6 0.1)
+		(size 3.5 6.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "51b8ce83-2d48-4f82-893b-7aa7bd8536d8")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "B.Cu")
+		(uuid "19a0b1eb-b283-42df-acbc-088305984dfc")
+		(hatch full 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias not_allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 2.1 -3.1) (xy 2.1 3) (xy -2 2.9) (xy -2 -3.1)
+			)
+		)
+	)
+	(embedded_fonts no)
+)

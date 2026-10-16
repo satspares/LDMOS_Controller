@@ -1,0 +1,9 @@
+Manufacturer=Kycon
+PartNumber=KMDGX-8S-N
+PartCategory=Connector
+PackageCategory=Other
+PinCount=9
+Version=1.2
+Released=2019-09-24 13:07:53
+Downloaded=2026-03-06 23:47:24
+3D=Y

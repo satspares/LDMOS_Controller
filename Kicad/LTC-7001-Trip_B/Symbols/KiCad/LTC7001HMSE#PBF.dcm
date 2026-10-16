@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC7001HMSE#PBF
+D ANALOG DEVICES - LTC7001HMSE#PBF - Gate Driver, 1 Channels, High Side, MOSFET, 10 Pins, MSOP-EP
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ltc7001.pdf
+$ENDCMP
+#
+#End Doc Library

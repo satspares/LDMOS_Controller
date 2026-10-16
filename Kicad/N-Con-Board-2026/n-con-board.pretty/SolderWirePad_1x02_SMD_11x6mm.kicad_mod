@@ -1,0 +1,107 @@
+(footprint "SolderWirePad_1x02_SMD_11x6mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Wire Pad, Square, SMD Pad,  5mm x 10mm,")
+	(tags "MesurementPoint Square SMDPad 5mmx10mm ")
+	(property "Reference" "J5"
+		(at 8.4312 -5.9682 180)
+		(layer "F.SilkS")
+		(uuid "f2ba25e8-4297-4bee-a576-19ee7ebcee63")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "AMP/LPF Output"
+		(at -15.394 0.839 0)
+		(layer "F.SilkS")
+		(uuid "479b3e9d-4e21-4b25-b2cb-4a928637674b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "79ca62bd-eda3-485f-b4a2-7322209610a1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Generic connector, single row, 01x02, script generated"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f8689bd2-734e-4826-89ee-637c73bcfa41")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "Connector*:*_1x??_*")
+	(sheetname "/")
+	(sheetfile "N-Con-Board-2026.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_text user "${REFERENCE}"
+		(at 10.514 2.871 180)
+		(layer "F.Fab")
+		(uuid "4a539260-9003-4944-91fc-c5db4fd24f3f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at 0.1 0.7 90)
+		(size 8.5 14)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "fed8cbce-e187-4f27-8f01-eaf1ac460a4b")
+	)
+	(pad "2" smd rect
+		(at 0 -8.4 90)
+		(size 7 7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "54666251-8d68-409b-84a1-f55c0678bffc")
+	)
+	(embedded_fonts no)
+)

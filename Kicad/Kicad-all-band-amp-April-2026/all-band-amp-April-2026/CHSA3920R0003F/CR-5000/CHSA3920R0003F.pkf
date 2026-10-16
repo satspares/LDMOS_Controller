@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "CHSA3920R0003F"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "CHSA3920R0003F")
+        (spec "default")
+    )
+)

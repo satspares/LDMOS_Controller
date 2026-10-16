@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RFA")(type "KiCad")(uri "${KIPRJMOD}/RFA.pretty")(options "")(descr ""))
+  (lib (name "solderwire")(type "KiCad")(uri "${KIPRJMOD}/solderwire.pretty")(options "")(descr ""))
+)

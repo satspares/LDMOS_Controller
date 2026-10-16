@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CHSA3920R0003F'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Eaton", "CHSA3920R0003F" (!) = "", "CHSA3920R0003F", "Other", "504-CHSA3920R0003F", "https://www.mouser.co.uk/ProductDetail/Bussmann-Eaton/CHSA3920R0003F?qs=By6Nw2ByBD3h3Nqv5wmZ%252Bw%3D%3D", "Current Sense Resistors - SMD CHS, 3920 SIZE, 10 Watt, 0.3 mohm, AEC-Q", "https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-chsa-automotive-smd-current-sense-resistor-metal-shunt-data-sheet-elx1223-en.pdf", "2.26 mm"
+END_PART
+
+END.

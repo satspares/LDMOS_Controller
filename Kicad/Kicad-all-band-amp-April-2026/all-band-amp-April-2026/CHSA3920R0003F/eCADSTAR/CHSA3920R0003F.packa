@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "CHSA3920R0003F"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-05-02-16:16:52)
+    (mountForm default
+        (footprintRef "CHSA3920R0003F")
+        (spec "System")
+    )
+)

@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ltc7001") (type "KiCad") (uri "${KIPRJMOD}/ltc7001.pretty") (options "") (descr ""))
+	(lib (name "LTC-FET") (type "KiCad") (uri "${KIPRJMOD}/Library.pretty") (options "") (descr ""))
+	(lib (name "KiCad") (type "KiCad") (uri "/home/paul/Documents/PlatformIO/Projects/Satspares-Git/LDMOS_WITH_DWIN_DISPLAY/N-Con-Board-2026/G2RL-1-E-DC12/KiCad.pretty") (options "") (descr ""))
+	(lib (name "kf141") (type "KiCad") (uri "${KIPRJMOD}/kf141.pretty") (options "") (descr ""))
+)

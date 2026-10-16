@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 3550100RJT
+#/11936953/1946058/2.50/2/3/Resistor
+DEF 3550100RJT R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "3550100RJT" 550 150 50 H V L CNN
+F2 "RESC11050X120N" 550 50 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1773204-6&DocType=DS&DocLang=English" 550 -50 50 H I L CNN
+F4 "CGS - TE CONNECTIVITY - 3550100RJT - SMD Chip Resistor, 100 ohm, +/- 5%, 5 W, 4320 [11050 Metric], Thick Film, High Power" 550 -150 50 H I L CNN "Description"
+F5 "1.2" 550 -250 50 H I L CNN "Height"
+F6 "279-3550100RJT" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Holsworthy/3550100RJT?qs=gZXFycFWdAMoLDipEZ%252BhPg%3D%3D" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "TE Connectivity" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "3550100RJT" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#End Library

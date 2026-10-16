@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "n-con-board")(type "KiCad")(uri "${KIPRJMOD}/n-con-board.pretty")(options "")(descr ""))
+)

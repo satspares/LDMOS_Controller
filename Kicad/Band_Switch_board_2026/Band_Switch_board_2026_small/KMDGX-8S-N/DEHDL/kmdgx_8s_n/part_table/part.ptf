@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'KMDGX_8S_N'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kycon", "KMDGX-8S-N" (!) = "", "KMDGX8SN", "Other", "806-KMDGX-8S-N", "https://www.mouser.com/Search/Refine.aspx?Keyword=806-KMDGX-8S-N", "Circular DIN Connectors 8P R/A NO SHIELD GOLD PLATED", "https://componentsearchengine.com/Datasheets/1/KMDGX-8S-N.pdf", "13 mm"
+END_PART
+
+END.

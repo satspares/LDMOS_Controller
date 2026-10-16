@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "my-footprints")(type "KiCad")(uri "${KIPRJMOD}/my-footprints.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/my-footprints.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "nano4808")(type "KiCad")(uri "${KIPRJMOD}/my-footprints.pretty/nano4808.pretty")(options "")(descr ""))
+  (lib (name "MIC2981")(type "KiCad")(uri "${KIPRJMOD}/my-footprints.pretty/MIC2981.pretty")(options "")(descr ""))
+  (lib (name "pin34_4808")(type "KiCad")(uri "${KIPRJMOD}/my-footprints.pretty/nano4808.pretty/pin34_4808.pretty")(options "")(descr ""))
+  (lib (name "production")(type "KiCad")(uri "${KIPRJMOD}/production.pretty")(options "")(descr ""))
+)

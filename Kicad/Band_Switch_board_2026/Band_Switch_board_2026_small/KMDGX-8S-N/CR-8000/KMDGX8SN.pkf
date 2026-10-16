@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "KMDGX8SN"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "KMDGX8SN")
+        (spec "default")
+    )
+)

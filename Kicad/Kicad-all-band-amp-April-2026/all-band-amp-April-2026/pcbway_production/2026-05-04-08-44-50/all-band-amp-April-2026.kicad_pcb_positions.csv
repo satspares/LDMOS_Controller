@@ -1,0 +1,123 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+121.92,-121.25,180.0,top,A1,,,DIP-34_W15.24mm,Arduino_Nano_Every-4808,tht
+95.25,-104.14,-90.0,top,C1,,,C_Disc_D3.4mm_W2.1mm_P2.50mm,10nf,tht
+178.0,-123.0,0.0,top,C10,,,CP_Radial_D5.0mm_P2.00mm,2.2uf,tht
+191.9,-111.56,180.0,top,C11,,,CP_Radial_D5.0mm_P2.00mm,10uf,tht
+179.752,-100.838,180.0,top,C12,,,C_Disc_D6.0mm_W2.5mm_P5.00mm,100nf,tht
+148.16,-113.17,180.0,top,C13,,,CP_Radial_D5.0mm_P2.00mm,1uf,tht
+142.29,-113.17,180.0,top,C14,,,CP_Radial_D5.0mm_P2.00mm,1uf,tht
+152.02,-113.06,0.0,top,C15,,,CP_Radial_D5.0mm_P2.00mm,1uf,tht
+129.5,-115.68,90.0,top,C16,,,CP_Radial_D5.0mm_P2.00mm,1uf,tht
+157.26,-119.36,-90.0,top,C17,,,CP_Radial_D5.0mm_P2.00mm,2.2uf,tht
+79.5,-99.5,90.0,top,C18,,,C_Disc_D3.4mm_W2.1mm_P2.50mm,10nf,tht
+80.0,-118.75,-90.0,top,C19,,,C_Disc_D3.4mm_W2.1mm_P2.50mm,10nf,tht
+95.25,-88.94,-90.0,top,C2,,,C_Disc_D3.4mm_W2.1mm_P2.50mm,10nf,tht
+78.435,-90.23,0.0,top,C20,,,C_Disc_D3.4mm_W2.1mm_P2.50mm,10nf,tht
+87.75,-90.0,180.0,top,C21,,,C_Disc_D3.4mm_W2.1mm_P2.50mm,10nf,tht
+85.5,-59.75,0.0,top,C22,,,C_Disc_D6.0mm_W2.5mm_P5.00mm,100nf,tht
+73.25,-75.0,180.0,top,C23,,,CP_Radial_D10.0mm_P5.00mm,10uf,tht
+105.8672,-58.5578,90.0,top,C24,,,C_Disc_D6.0mm_W2.5mm_P5.00mm,100nf,tht
+81.7934,-54.6862,180.0,top,C25,,,C_Disc_D3.4mm_W2.1mm_P2.50mm,10nf,tht
+95.25,-73.7,-90.0,top,C3,,,C_Disc_D3.4mm_W2.1mm_P2.50mm,10nf,tht
+98.5,-121.25,-90.0,top,C4,,,C_Disc_D3.4mm_W2.1mm_P2.50mm,10nf,tht
+95.25,-131.75,90.0,top,C5,,,C_Disc_D3.4mm_W2.1mm_P2.50mm,10nf,tht
+99.2778,-53.1622,0.0,top,C6,,,C_Disc_D3.4mm_W2.1mm_P2.50mm,10nf,tht
+101.0,-110.5,180.0,top,C7,,,CP_Radial_D5.0mm_P2.00mm,10uf,tht
+180.0,-92.67,90.0,top,C8,,,C_Disc_D6.0mm_W2.5mm_P5.00mm,100nf,tht
+100.0,-102.5,90.0,top,C9,,,C_Disc_D6.0mm_W2.5mm_P5.00mm,100nf,tht
+95.25,-101.605,90.0,top,D1,,,D_DO-35_SOD27_P7.62mm_Horizontal,Zener 4.7v,tht
+82.69,-97.0,0.0,top,D10,,,D_DO-35_SOD27_P7.62mm_Horizontal,BAT85,tht
+83.88,-129.0,0.0,top,D11,,,D_DO-35_SOD27_P7.62mm_Horizontal,BAT85,tht
+83.13,-107.25,0.0,top,D12,,,D_DO-35_SOD27_P7.62mm_Horizontal,BAT85,tht
+95.25,-86.36,90.0,top,D2,,,D_DO-35_SOD27_P7.62mm_Horizontal,Zener 4.7v,tht
+95.25,-71.12,90.0,top,D3,,,D_DO-35_SOD27_P7.62mm_Horizontal,Zener 4.7v,tht
+95.25,-118.115,90.0,top,D4,,,D_DO-35_SOD27_P7.62mm_Horizontal,Zener 4.7v,tht
+98.5,-134.31,90.0,top,D5,,,D_DO-35_SOD27_P7.62mm_Horizontal,Zener 4.7v,tht
+95.25,-55.885,90.0,top,D6,,,D_DO-35_SOD27_P7.62mm_Horizontal,Zener 4.7v,tht
+83.63,-118.75,0.0,top,D7,,,D_DO-35_SOD27_P7.62mm_Horizontal,BAT85,tht
+87.06,-66.55,180.0,top,D8,,,D_DO-35_SOD27_P7.62mm_Horizontal,BAT85,tht
+87.06,-63.0,180.0,top,D9,,,D_DO-35_SOD27_P7.62mm_Horizontal,BAT85,tht
+64.0,-137.0,90.0,top,J1,,,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,SWR1,tht
+161.04,-140.0,180.0,top,J10,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,Aux In,tht
+195.5,-62.764,-90.0,top,J11,,,JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical,LPF,tht
+163.91,-47.5,0.0,top,J12,,,JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,Digi In/Out,tht
+175.0,-140.0,180.0,top,J13,,,JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,12v/5v Outputs,tht
+134.75,-140.0,180.0,top,J14,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,TX2/RX2,tht
+117.075,-140.0,180.0,top,J15,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,TX0/RX0,tht
+154.84,-47.5,0.0,top,J16,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,50v In.,tht
+125.86,-47.5,0.0,top,J17,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,PWM Out,tht
+146.0,-47.5,0.0,top,J18,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,PTT IN,tht
+187.5,-140.0,180.0,top,J19,,,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,DISPLAY POWER,tht
+64.0,-113.75,90.0,top,J2,,,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,SWR2,tht
+195.5,-87.25,-90.0,top,J20,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,5V Output,tht
+125.9,-140.0,180.0,top,J21,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,RS232,tht
+116.82,-130.73,180.0,top,J22,,,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,UDPI,tht
+195.5,-118.84,-90.0,top,J23,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,12v Output,tht
+195.5,-127.6,-90.0,top,J24,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,12v Output,tht
+114.6086,-53.9242,0.0,top,J25,,,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,Temp 2,tht
+67.75,-52.5,-90.0,top,J26,,,AMASS_XT90-M_1x02_P11.00mm_Vertical,Power Link,tht
+64.0,-97.028,90.0,top,J3,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,I opt Input,tht
+86.5,-47.5,0.0,top,J4,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,RF In Level,tht
+105.44,-47.5,0.0,top,J5,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,50v In.,tht
+114.38,-47.5,0.0,top,J6,,,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,Temp,tht
+134.74,-47.5,0.0,top,J7,,,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,Conn_01x03_Pin,tht
+143.53,-140.0,180.0,top,J8,,,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,12v Input,tht
+108.225,-140.0,180.0,top,J9,,,JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,I2c Output,tht
+187.5,-123.7225,90.0,top,L1,,,L_Radial_D7.0mm_P3.00mm,68uh,tht
+174.25,-54.35,-90.0,top,Q1,,,TO-92_HandSolder,2n2222,tht
+100.25,-62.25,90.0,top,Q2,,,TO-92_HandSolder,2n2222,tht
+83.19,-110.5,0.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1k5,tht
+91.56,-136.25,180.0,top,R10,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,680r,tht
+91.81,-52.5,180.0,top,R11,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,4k7,tht
+92.0,-56.0,180.0,top,R12,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,470r,tht
+110.5,-60.13,-90.0,top,R13,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,100k,tht
+114.25,-67.62,90.0,top,R14,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,5k1,tht
+124.87,-56.19,-90.0,top,R15,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,4k7,tht
+147.5,-56.19,-90.0,top,R16,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2k2,tht
+142.42,-56.19,-90.0,top,R17,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10r,tht
+137.34,-56.19,-90.0,top,R18,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10r,tht
+132.26,-56.19,-90.0,top,R19,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10r,tht
+83.38,-114.25,0.0,top,R2,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,680r,tht
+155.0,-75.06,90.0,top,R20,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+115.75,-91.5,90.0,top,R21,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+112.0,-91.5,90.0,top,R22,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+118.25,-67.56,90.0,top,R23,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+118.2116,-113.8936,90.0,top,R24,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+114.681,-113.919,90.0,top,R25,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+72.0,-101.06,90.0,top,R26,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+90.75,-94.31,90.0,top,R27,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+148.81,-103.0,180.0,top,R28,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,470r,tht
+148.81,-99.5,180.0,top,R29,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,470r,tht
+82.94,-104.0,0.0,top,R3,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1k5-3k3,tht
+72.0,-90.31,90.0,top,R30,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+91.25,-80.31,90.0,top,R31,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+114.1608,-101.9394,90.0,top,R32,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+118.1608,-101.8794,90.0,top,R33,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+155.5,-56.19,-90.0,top,R34,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,3k3,tht
+151.75,-63.81,90.0,top,R35,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1k,tht
+147.44,-78.75,0.0,top,R36,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,10k,tht
+186.83,-49.17,180.0,top,R37,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,R,tht
+179.23,-52.86,0.0,top,R38,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,R,tht
+87.37,-74.72,180.0,top,R39,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1200k,tht
+90.56,-100.25,180.0,top,R4,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,680r,tht
+162.5,-56.77,0.0,top,R40,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1k,tht
+87.37,-70.72,180.0,top,R41,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1200k,tht
+91.25,-70.06,90.0,top,R42,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1k5,tht
+74.25,-59.1,90.0,bottom,R43,,,CHSA3920R0003F-MOD,Shunt Not Fitted,smt
+110.6424,-114.0714,90.0,top,R44,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1k5,tht
+109.8804,-102.108,90.0,top,R45,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1k5,tht
+99.75,-66.94,-90.0,top,R5,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,470r or 47k opt,tht
+64.008,-88.9,90.0,top,R6,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,47k opt,tht
+83.63,-125.75,0.0,top,R7,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1k5-3k3,tht
+91.25,-122.25,180.0,top,R8,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,680rr,tht
+83.94,-132.5,0.0,top,R9,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,1k5,tht
+133.78,-129.51,0.0,top,SW1,,,SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm,SW_DIP_x02,tht
+147.5,-67.38,-90.0,top,U1,,,DIP-16_W7.62mm,LTV-847,tht
+167.5,-62.23,0.0,top,U2,,,DIP-28_W7.62mm,MCP23017_SP,tht
+78.63,-79.42,0.0,top,U3,,,DIP-8_W7.62mm,LM393,tht
+180.0,-62.23,0.0,top,U4,,,DIP-18_W7.62mm_Socket,MIC2981/82YN,tht
+162.7,-83.82,-90.0,top,U5,,,DIP-18_W7.62mm_Socket,MIC2981/82YN,tht
+177.553,-114.2075,0.0,top,U6,,,Converter_DCDC_RECOM_R-78E-0.5_THT,R-78E5.0-1.0,tht
+151.904664,-117.325,-90.0,top,U7,,,DIP-16_W7.62mm,MAX232N,tht
+130.19,-105.805,90.0,top,U8,,,DIP-8_W7.62mm,LTV-827,tht
+78.74,-59.0891,0.0,bottom,U9,,,SOIC-8_3.9x4.9mm_P1.27mm,ACS712xLCTR-30A,smt

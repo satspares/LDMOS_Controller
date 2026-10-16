@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "RFA")(type "KiCad")(uri "${KIPRJMOD}/RFA.kicad_sym")(options "")(descr ""))
+  (lib (name "relay_smd")(type "KiCad")(uri "${KIPRJMOD}/relay_smd.kicad_sym")(options "")(descr ""))
+)

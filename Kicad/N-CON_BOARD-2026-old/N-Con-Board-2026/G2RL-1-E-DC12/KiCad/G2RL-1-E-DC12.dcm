@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP G2RL-1-E-DC12
+D Low profile power relay with 15.7 mm height, ideal for incorporation in miniature equipments
+K
+F https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+$ENDCMP
+#
+#End Doc Library

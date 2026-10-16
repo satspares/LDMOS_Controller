@@ -1,0 +1,65 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+A1,1,Arduino_Nano_Every-4808,DIP-34_W15.24mm,,,,tht,Arduino Nano Every-4808
+"C1, C18, C19, C2, C20, C21, C25, C3, C4, C5, C6",11,10nf,C_Disc_D3.4mm_W2.1mm_P2.50mm,,,,tht,Unpolarized capacitor
+"C10, C17",2,2.2uf,CP_Radial_D5.0mm_P2.00mm,,,,tht,Polarized capacitor
+"C11, C7",2,10uf,CP_Radial_D5.0mm_P2.00mm,,,,tht,Polarized capacitor
+"C12, C22, C24, C8, C9",5,100nf,C_Disc_D6.0mm_W2.5mm_P5.00mm,,,,tht,Unpolarized capacitor
+"C13, C14, C15, C16",4,1uf,CP_Radial_D5.0mm_P2.00mm,,,,tht,Polarized capacitor
+C23,1,10uf,CP_Radial_D10.0mm_P5.00mm,,,,tht,Polarized capacitor
+"D1, D2, D3, D4, D5, D6",6,Zener 4.7v,D_DO-35_SOD27_P7.62mm_Horizontal,,,,tht,Zener diode
+"D10, D11, D12, D7, D8, D9",6,BAT85,D_DO-35_SOD27_P7.62mm_Horizontal,,,,tht,"30V 0.2A Schottky barrier single diode, DO-35"
+J1,1,SWR1,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated"
+J10,1,Aux In,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+J11,1,LPF,JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x08, script generated"
+J12,1,Digi In/Out,JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated"
+J13,1,12v/5v Outputs,JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated"
+J14,1,TX2/RX2,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+J15,1,TX0/RX0,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+"J16, J5",2,50v In.,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+J17,1,PWM Out,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+J18,1,PTT IN,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+J19,1,DISPLAY POWER,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated"
+J2,1,SWR2,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated"
+J20,1,5V Output,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+J21,1,RS232,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+J22,1,UDPI,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated"
+"J23, J24",2,12v Output,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+J25,1,Temp 2,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated"
+J26,1,Power Link,AMASS_XT90-M_1x02_P11.00mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+J3,1,I opt Input,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+J4,1,RF In Level,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+J6,1,Temp,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated"
+J7,1,Conn_01x03_Pin,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated"
+J8,1,12v Input,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+J9,1,I2c Output,JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated"
+JP1,1,Jumper 12v,SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm,,,,tht,"Jumper, 2-pole, open"
+JP2,1,Jumper 5v,SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm,,,,tht,"Jumper, 2-pole, open"
+L1,1,68uh,L_Radial_D7.0mm_P3.00mm,,,,tht,Inductor
+"Q1, Q2",2,2n2222,TO-92_HandSolder,,,,tht,"0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92"
+"R1, R42, R44, R45, R9",5,1k5,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+"R10, R2, R4",3,680r,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+"R11, R15",2,4k7,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+"R12, R28, R29",3,470r,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+R13,1,100k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+R14,1,5k1,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+R16,1,2k2,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+"R17, R18, R19",3,10r,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+"R20, R21, R22, R23, R24, R25, R26, R27, R30, R31, R32, R33, R36",13,10k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+"R3, R7",2,1k5-3k3,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+R34,1,3k3,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+"R35, R40",2,1k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+"R37, R38",2,R,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+"R39, R41",2,1200k,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+R43,1,Shunt Not Fitted,CHSA3920R0003F-MOD,,,,smt,Resistor
+R5,1,470r or 47k opt,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+R6,1,47k opt,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+R8,1,680rr,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor
+SW1,1,SW_DIP_x02,SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm,,,,tht,"2x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol"
+U1,1,LTV-847,DIP-16_W7.62mm,,,,tht,"Quad DC Optocoupler, Vce 35V, CTR 50%, DIP-16"
+U2,1,MCP23017_SP,DIP-28_W7.62mm,,,,tht,"16-bit I/O expander, I2C, interrupts, w pull-ups, SPDIP-28"
+U3,1,LM393,DIP-8_W7.62mm,,,,tht,"Low-Power, Low-Offset Voltage, Dual Comparators, DIP-8/SOIC-8/TO-99-8"
+"U4, U5",2,MIC2981/82YN,DIP-18_W7.62mm_Socket,,,,tht,
+U6,1,R-78E5.0-1.0,Converter_DCDC_RECOM_R-78E-0.5_THT,,,,tht,"1A Step-Down DC/DC-Regulator, 7-28V input, 5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, SIP3"
+U7,1,MAX232N,DIP-16_W7.62mm,,,,tht,"Dual RS232 driver/receiver, 5V supply, 120kb/s, 0C-70C"
+U8,1,LTV-827,DIP-8_W7.62mm,,,,tht,"Dual DC Optocoupler, Vce 35V, CTR 50%, DIP-8"
+U9,1,ACS712xLCTR-30A,SOIC-8_3.9x4.9mm_P1.27mm,,,,smt,"±30A Bidirectional Hall-Effect Current Sensor, +5.0V supply, 66mV/A, SOIC-8"

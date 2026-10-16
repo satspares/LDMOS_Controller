@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CHSA3920R0003F
+D Current Sense Resistors - SMD CHS, 3920 SIZE, 10 Watt, 0.3 mohm, AEC-Q
+K
+F https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-chsa-automotive-smd-current-sense-resistor-metal-shunt-data-sheet-elx1223-en.pdf
+$ENDCMP
+#
+#End Doc Library

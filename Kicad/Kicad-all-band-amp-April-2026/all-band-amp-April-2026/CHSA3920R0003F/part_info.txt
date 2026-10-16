@@ -1,0 +1,9 @@
+Manufacturer=Eaton
+PartNumber=CHSA3920R0003F
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2023-05-02 16:16:52
+Downloaded=2026-03-10 19:32:58
+3D=Y

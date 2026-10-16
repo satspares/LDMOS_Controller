@@ -1,0 +1,80 @@
+(footprint "PowerPad9mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.4064 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "782577f1-cd80-4b15-9828-ccc1dd335497")
+		(effects
+			(font
+				(size 0.8128 0.8128)
+				(thickness 0.1524)
+			)
+		)
+	)
+	(property "Value" "PowerPad9mm"
+		(at 0 0.9064 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5a17f22d-e3d3-49f1-9756-f1f2d12c97c7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "19c04224-cdd9-4be2-82c0-e796b174ded4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "72157689-26a7-444f-8a15-e84527e98acd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.4064 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e2154750-272b-4a7d-a1e0-dfe8ac7c3a83")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0.1 0)
+		(size 9 9)
+		(drill 4.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "fd427804-1dcd-45be-bb94-8ecd920b6b2f")
+	)
+	(embedded_fonts no)
+)

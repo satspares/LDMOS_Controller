@@ -1,0 +1,421 @@
+Info: Processing symbol 'L1:Inductor_THT:L_Radial_D7.0mm_P3.00mm'.
+Info: Processing symbol 'J18:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J19:Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical'.
+Info: Processing symbol 'J20:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J21:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J22:Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical'.
+Info: Processing symbol 'J23:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J24:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J25:Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical'.
+Info: Processing symbol 'JP1:Connector_Wire:SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm'.
+Info: Processing symbol 'A1:my-footprints:DIP-34_W15.24mm'.
+Info: Processing symbol 'J17:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-92_HandSolder'.
+Info: Processing symbol 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R7:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R8:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R9:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'J7:Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical'.
+Info: Processing symbol 'H1:MountingHole:MountingHole_3.5mm_Pad_Via'.
+Info: Processing symbol 'H2:MountingHole:MountingHole_3.5mm_Pad_Via'.
+Info: Processing symbol 'H3:MountingHole:MountingHole_3.5mm_Pad_Via'.
+Info: Processing symbol 'H4:MountingHole:MountingHole_3.5mm_Pad_Via'.
+Info: Processing symbol 'J1:Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical'.
+Info: Processing symbol 'J2:Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical'.
+Info: Processing symbol 'J3:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J4:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J5:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J6:Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical'.
+Info: Processing symbol 'R10:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'J8:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J9:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'J10:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'J11:Connector_JST:JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical'.
+Info: Processing symbol 'J12:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'J13:Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical'.
+Info: Processing symbol 'J14:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J15:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'J16:Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical'.
+Info: Processing symbol 'RV4:Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical'.
+Info: Processing symbol 'R32:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R33:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R34:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R35:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R37:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R38:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R40:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'RV1:Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical'.
+Info: Processing symbol 'RV2:Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical'.
+Info: Processing symbol 'RV3:Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical'.
+Info: Processing symbol 'R31:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'RV5:Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical'.
+Info: Processing symbol 'SW1:Button_Switch_THT:SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm'.
+Info: Processing symbol 'U1:Package_DIP:DIP-16_W7.62mm'.
+Info: Processing symbol 'U2:Package_DIP:DIP-28_W7.62mm'.
+Info: Processing symbol 'U3:Package_DIP:DIP-16_W7.62mm'.
+Info: Processing symbol 'U4:Package_DIP:DIP-18_W7.62mm_Socket'.
+Info: Processing symbol 'U5:Package_DIP:DIP-18_W7.62mm_Socket'.
+Info: Processing symbol 'U6:Converter_DCDC:Converter_DCDC_RECOM_R-78E-0.5_THT'.
+Info: Processing symbol 'U7:Package_DIP:DIP-16_W7.62mm'.
+Info: Total warnings: 0, errors: 0.
+Info: Processing symbol 'R21:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R11:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R12:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R13:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R14:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R15:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R16:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R17:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R18:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R19:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R20:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'JP2:Connector_Wire:SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm'.
+Info: Processing symbol 'R22:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R23:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R24:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R25:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R26:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R27:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R28:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R29:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'R30:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal'.
+Info: Processing symbol 'C3:Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm'.
+Info: Processing symbol 'C10:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C16:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C2:Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm'.
+Info: Processing symbol 'C12:Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm'.
+Info: Processing symbol 'C7:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C5:Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm'.
+Info: Processing symbol 'D4:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'C15:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C17:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C9:Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm'.
+Info: Processing symbol 'D2:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'C13:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C8:Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm'.
+Info: Processing symbol 'D3:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'C14:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'C4:Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm'.
+Info: Processing symbol 'D5:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'C11:Capacitor_THT:CP_Radial_D5.0mm_P2.00mm'.
+Info: Processing symbol 'D6:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'C1:Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm'.
+Info: Processing symbol 'C6:Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm'.
+Info: Processing symbol 'D1:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Updated R26 sheetname to '/'.
+Updated R19 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R28 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated C8 fields.
+Updated R21 fields.
+Updated R21 sheetname to '/'.
+Updated R21 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R28 sheetname to '/'.
+Updated R22 fields.
+Updated R22 sheetname to '/'.
+Updated R22 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated C7 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R23 fields.
+Updated R28 fields.
+Updated C6 sheetname to '/'.
+Updated C6 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R23 sheetname to '/'.
+Updated R26 fields.
+Updated R26 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R23 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated C7 sheetname to '/'.
+Updated R27 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R24 fields.
+Updated R27 sheetname to '/'.
+Updated R24 sheetname to '/'.
+Updated R24 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated C7 fields.
+Updated R25 fields.
+Updated R25 sheetname to '/'.
+Updated R25 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R27 fields.
+Updated C10 fields.
+Updated R15 sheetname to '/'.
+Updated R15 fields.
+Updated C9 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R14 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R14 sheetname to '/'.
+Updated R14 fields.
+Updated R13 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R13 sheetname to '/'.
+Updated R13 fields.
+Updated R15 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R12 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R12 sheetname to '/'.
+Updated R12 fields.
+Updated C10 sheetname to '/'.
+Updated R11 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R11 sheetname to '/'.
+Updated R11 fields.
+Updated C10 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R10 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R18 fields.
+Updated R20 sheetname to '/'.
+Updated R20 fields.
+Updated C8 sheetname to '/'.
+Updated R30 fields.
+Updated R19 sheetname to '/'.
+Updated R19 fields.
+Updated C8 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R18 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R18 sheetname to '/'.
+Updated R20 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R17 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R17 sheetname to '/'.
+Updated R17 fields.
+Updated C9 fields.
+Updated R16 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R16 sheetname to '/'.
+Updated R16 fields.
+Updated C9 sheetname to '/'.
+Updated RV4 sheetname to '/'.
+Updated C2 fields.
+Updated SW1 sheetname to '/max232-sheet/'.
+Updated SW1 fields.
+Updated C2 sheetname to '/'.
+Updated RV5 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated RV5 sheetname to '/'.
+Updated RV5 fields.
+Updated C2 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated RV4 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated U1 sheetname to '/'.
+Updated RV4 fields.
+Updated RV3 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated RV3 sheetname to '/'.
+Updated RV3 fields.
+Updated C3 fields.
+Updated RV2 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated RV2 sheetname to '/'.
+Updated RV2 fields.
+Updated C3 sheetname to '/'.
+Updated C1 fields.
+Updated A1 sheetname to '/'.
+
+
+Updated U7 sheetname to '/max232-sheet/'.
+Updated A1 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated U6 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated U6 sheetname to '/'.
+Updated U5 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated U5 sheetname to '/'.
+Updated RV1 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated U4 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated U4 sheetname to '/'.
+Updated C1 sheetname to '/'.
+Updated U3 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated U3 sheetname to '/'.
+Updated C1 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated U2 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated U2 sheetname to '/'.
+Updated U1 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R31 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R34 fields.
+Updated R33 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R33 sheetname to '/'.
+Updated R33 fields.
+Updated C5 fields.
+Updated R32 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R32 sheetname to '/'.
+Updated R32 fields.
+Updated C5 sheetname to '/'.
+Updated R34 sheetname to '/'.
+Updated R31 sheetname to '/'.
+Updated R31 fields.
+Updated C5 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R30 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R30 sheetname to '/'.
+Updated C11 fields.
+Updated R29 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R29 sheetname to '/'.
+Updated R29 fields.
+Updated C4 fields.
+Updated RV1 sheetname to '/'.
+Updated RV1 fields.
+Updated C3 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R40 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R40 sheetname to '/'.
+Updated R40 fields.
+Updated R38 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R38 sheetname to '/'.
+Updated R38 fields.
+Updated C6 fields.
+Updated R37 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R37 sheetname to '/'.
+Updated R37 fields.
+Updated C4 sheetname to '/'.
+Updated R35 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R35 sheetname to '/'.
+Updated R35 fields.
+Updated C4 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R34 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J9 fields.
+Updated J11 sheetname to '/'.
+Updated J11 fields.
+Updated D2 fields.
+Updated J10 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J10 sheetname to '/'.
+Updated J10 fields.
+Updated D2 sheetname to '/'.
+Updated J9 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J9 sheetname to '/'.
+Updated J11 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated D2 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J8 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J8 sheetname to '/'.
+Updated J8 fields.
+Updated J7 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J7 sheetname to '/'.
+Updated J7 fields.
+Updated D3 fields.
+Updated J6 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J14 sheetname to '/'.
+Updated C17 sheetname to '/max232-sheet/'.
+Updated J16 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J16 sheetname to '/'.
+Updated J16 fields.
+Updated J15 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J15 sheetname to '/'.
+Updated J15 fields.
+Updated D1 fields.
+Updated J14 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J6 sheetname to '/'.
+Updated J14 fields.
+Updated D1 sheetname to '/'.
+Updated J13 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J13 sheetname to '/'.
+Updated J13 fields.
+Updated D1 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J12 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J12 sheetname to '/'.
+Updated J12 fields.
+Updated H2 sheetname to '/'.
+Updated D4 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated H4 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated H4 sheetname to '/'.
+Updated H4 fields.
+Updated H3 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated H3 sheetname to '/'.
+Updated H3 fields.
+Updated D5 fields.
+Updated H2 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J1 fields.
+Updated H2 fields.
+Updated D5 sheetname to '/'.
+Updated H1 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated H1 sheetname to '/'.
+Updated H1 fields.
+Updated D5 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated D6 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated D6 sheetname to '/'.
+Updated D6 fields.
+Updated J3 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J6 fields.
+Updated D3 sheetname to '/'.
+Updated J5 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J5 sheetname to '/'.
+Updated J5 fields.
+Updated D3 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J4 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J4 sheetname to '/'.
+Updated J4 fields.
+Updated J17 fields.
+Updated J3 sheetname to '/'.
+Updated J3 fields.
+Updated D4 fields.
+Updated J2 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J2 sheetname to '/'.
+Updated J2 fields.
+Updated D4 sheetname to '/'.
+Updated J1 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J1 sheetname to '/'.
+Updated R2 fields.
+Updated R4 sheetname to '/'.
+Updated R4 fields.
+Updated C12 sheetname to '/'.
+Updated R3 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R3 sheetname to '/'.
+Updated R3 fields.
+Updated C12 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R2 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R2 sheetname to '/'.
+Updated R4 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R1 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R1 sheetname to '/'.
+Updated R1 fields.
+Updated C13 fields.
+Updated Q1 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated Q1 sheetname to '/'.
+Updated C13 sheetname to '/max232-sheet/'.
+Updated L1 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated L1 sheetname to '/'.
+Updated R7 sheetname to '/'.
+Updated R10 fields.
+Updated R9 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R9 sheetname to '/'.
+Updated R9 fields.
+Updated R8 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R8 sheetname to '/'.
+Updated R8 fields.
+Updated C11 sheetname to '/'.
+Updated R7 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated L1 fields.
+Updated R7 fields.
+Updated C11 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R6 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R6 sheetname to '/'.
+Updated R6 fields.
+Updated R5 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R5 sheetname to '/'.
+Updated R5 fields.
+Updated C12 fields.
+Updated C16 sheetname to '/max232-sheet/'.
+Updated J22 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J22 sheetname to '/'.
+Updated J22 fields.
+Updated J21 sheetname to '/max232-sheet/'.
+Updated J21 fields.
+Updated C16 fields.
+Updated J20 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J20 sheetname to '/'.
+Updated J20 fields.
+Updated C15 sheetname to '/max232-sheet/'.
+Updated J19 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J19 sheetname to '/'.
+Updated J19 fields.
+Updated J18 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J18 sheetname to '/'.
+Updated J18 fields.
+Updated C17 fields.
+Updated J17 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J17 sheetname to '/'.
+Updated J25 sheetname to '/'.
+Updated JP2 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated JP2 sheetname to '/'.
+Updated JP2 fields.
+Updated C14 fields.
+Updated JP1 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated JP1 sheetname to '/'.
+Updated JP1 fields.
+Updated C14 sheetname to '/max232-sheet/'.
+Updated J25 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated R10 sheetname to '/'.
+Updated J25 fields.
+Updated J24 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J24 sheetname to '/'.
+Updated J24 fields.
+Updated C15 fields.
+Updated J23 sheetfile to 'all-band-amp-2026.kicad_sch'.
+Updated J23 sheetname to '/'.
+Updated J23 fields.
+
+
+Info: Total warnings: 0, errors: 0.

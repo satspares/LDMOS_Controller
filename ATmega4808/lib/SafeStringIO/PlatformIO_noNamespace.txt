@@ -1,0 +1,4 @@
+This version of SafeString is for use with PlatformIO
+for boards that do NOT use 
+namespace arduino {
+in Print.h
