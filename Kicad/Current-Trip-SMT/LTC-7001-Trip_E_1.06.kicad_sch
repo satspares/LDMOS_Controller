@@ -5885,13 +5885,19 @@
 		(uuid "0603145c-f405-43b3-89f1-43f6c51e5188")
 	)
 	(junction
+		(at 92.71 151.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "116c518b-4852-47f7-898d-b8e28f2cf9c7")
+	)
+	(junction
 		(at 130.81 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "149c54e3-9001-4d93-856c-519dd74deed3")
 	)
 	(junction
-		(at 157.48 97.79)
+		(at 158.75 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "15739be2-a78b-4c0e-8934-941126e97c7a")
@@ -6089,6 +6095,12 @@
 		(uuid "77111ac0-d94f-4402-9595-494d2d9a7dd0")
 	)
 	(junction
+		(at 149.86 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7b97d43f-a8c4-4e79-8002-702c9bfaee7d")
+	)
+	(junction
 		(at 152.4 186.69)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6123,6 +6135,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9496a767-2315-4298-bdad-8f68232a1c03")
+	)
+	(junction
+		(at 58.42 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "96808f74-fc7c-4f0e-83f1-c03ec5c9ef81")
 	)
 	(junction
 		(at 87.63 139.7)
@@ -6189,12 +6207,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b7405c17-0e09-4f72-9504-7ff771a25ee3")
-	)
-	(junction
-		(at 148.59 93.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ba09cf64-1806-4d30-87e0-89274af964e5")
 	)
 	(junction
 		(at 256.54 68.58)
@@ -6423,6 +6435,16 @@
 			(type default)
 		)
 		(uuid "0afc11f1-4cef-4189-8dea-887170bdeec6")
+	)
+	(wire
+		(pts
+			(xy 158.75 101.6) (xy 158.75 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cbeb754-7f51-4db8-9d97-2233c18d8a9f")
 	)
 	(wire
 		(pts
@@ -6986,7 +7008,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 106.68) (xy 157.48 107.95)
+			(xy 158.75 121.92) (xy 158.75 123.19)
 		)
 		(stroke
 			(width 0)
@@ -6996,7 +7018,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 139.7) (xy 92.71 154.94)
+			(xy 92.71 139.7) (xy 92.71 151.13)
 		)
 		(stroke
 			(width 0)
@@ -7076,7 +7098,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 97.79) (xy 157.48 97.79)
+			(xy 153.67 113.03) (xy 158.75 113.03)
 		)
 		(stroke
 			(width 0)
@@ -7246,17 +7268,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 86.36) (xy 157.48 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c8199ae-45d0-464b-b36f-474875def01b")
-	)
-	(wire
-		(pts
-			(xy 157.48 107.95) (xy 161.29 107.95)
+			(xy 158.75 123.19) (xy 162.56 123.19)
 		)
 		(stroke
 			(width 0)
@@ -7266,7 +7278,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 101.6) (xy 146.05 101.6)
+			(xy 149.86 101.6) (xy 146.05 101.6)
 		)
 		(stroke
 			(width 0)
@@ -7296,7 +7308,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 95.25) (xy 157.48 97.79)
+			(xy 158.75 111.76) (xy 158.75 113.03)
 		)
 		(stroke
 			(width 0)
@@ -7336,23 +7348,13 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 93.98) (xy 148.59 101.6)
+			(xy 149.86 93.98) (xy 149.86 101.6)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "775b063e-c120-48ce-a3d9-66da90bec175")
-	)
-	(wire
-		(pts
-			(xy 148.59 86.36) (xy 149.86 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77b6d8aa-6bba-4a4b-b169-f2dfb4ff0823")
 	)
 	(wire
 		(pts
@@ -7686,6 +7688,16 @@
 	)
 	(wire
 		(pts
+			(xy 58.42 52.07) (xy 54.61 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9786c5ee-c09e-4987-add1-08ee3da2de9e")
+	)
+	(wire
+		(pts
 			(xy 92.71 72.39) (xy 106.68 72.39)
 		)
 		(stroke
@@ -7696,7 +7708,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 123.19) (xy 168.91 120.65)
+			(xy 170.18 105.41) (xy 170.18 110.49)
 		)
 		(stroke
 			(width 0)
@@ -7816,16 +7828,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 86.36) (xy 148.59 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1370a87-4cd9-4b19-b01b-b08d2dc9267e")
-	)
-	(wire
-		(pts
 			(xy 46.99 73.66) (xy 46.99 38.1)
 		)
 		(stroke
@@ -7896,6 +7898,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 151.13) (xy 92.71 151.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae6bf0f3-7f2f-43db-8545-8ebc9f810c34")
+	)
+	(wire
+		(pts
 			(xy 73.66 80.01) (xy 77.47 80.01)
 		)
 		(stroke
@@ -7926,7 +7938,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 93.98) (xy 148.59 93.98)
+			(xy 146.05 93.98) (xy 149.86 93.98)
 		)
 		(stroke
 			(width 0)
@@ -8016,7 +8028,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 97.79) (xy 157.48 99.06)
+			(xy 158.75 113.03) (xy 158.75 114.3)
 		)
 		(stroke
 			(width 0)
@@ -8046,7 +8058,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 123.19) (xy 168.91 123.19)
+			(xy 170.18 105.41) (xy 167.64 105.41)
 		)
 		(stroke
 			(width 0)
@@ -8076,7 +8088,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 52.07) (xy 54.61 52.07)
+			(xy 69.85 52.07) (xy 58.42 52.07)
 		)
 		(stroke
 			(width 0)
@@ -8236,6 +8248,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 101.6) (xy 151.13 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ddc108d6-9015-43c9-b7c1-bf47ae0017d3")
+	)
+	(wire
+		(pts
 			(xy 59.69 129.54) (xy 100.33 129.54)
 		)
 		(stroke
@@ -8243,6 +8265,16 @@
 			(type default)
 		)
 		(uuid "dfbabfe6-b935-49c5-b9db-25aed6621d62")
+	)
+	(wire
+		(pts
+			(xy 92.71 151.13) (xy 92.71 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1ea6a3c-c96c-461e-a326-d496842bdead")
 	)
 	(wire
 		(pts
@@ -8525,7 +8557,7 @@
 		(uuid "4e4eb3f2-57a5-438d-a225-d9c963ca95bc")
 	)
 	(label "DISABLE"
-		(at 92.71 151.13 0)
+		(at 93.98 151.13 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8595,7 +8627,7 @@
 		(uuid "76d3f18c-6602-4b8d-ae14-a33b4cdf3515")
 	)
 	(label "OL"
-		(at 153.67 97.79 0)
+		(at 153.67 113.03 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8615,7 +8647,7 @@
 		(uuid "84bcb3a1-a462-4619-aa56-5d031e6f0aa8")
 	)
 	(label "OSC"
-		(at 170.18 123.19 0)
+		(at 167.64 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9120,7 +9152,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 168.91 116.84 0)
+		(at 170.18 114.3 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9130,7 +9162,7 @@
 		(dnp no)
 		(uuid "09fd7344-1bf4-44bb-806d-fe67752b6c7c")
 		(property "Reference" "R20"
-			(at 171.196 115.57 0)
+			(at 168.148 115.57 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9141,7 +9173,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 170.942 118.11 0)
+			(at 168.148 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9152,7 +9184,7 @@
 			)
 		)
 		(property "Footprint" "LTC-FET:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 167.132 116.84 90)
+			(at 171.958 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9163,7 +9195,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 116.84 0)
+			(at 170.18 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9174,7 +9206,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 168.91 116.84 0)
+			(at 170.18 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10156,7 +10188,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LTC-FET:RESC11050X120N"
+		(property "Footprint" "LTC-FET:RESC11050X120N_Mod"
 			(at 118.11 61.468 90)
 			(hide yes)
 			(show_name no)
@@ -10702,7 +10734,7 @@
 			)
 		)
 		(property "Value" "FR107"
-			(at 65.278 50.038 0)
+			(at 66.802 43.688 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11352,7 +11384,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4b004699-9f01-45df-9e86-370608a15bce")
-		(property "Reference" "D4"
+		(property "Reference" "Z2"
 			(at 136.144 102.87 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11416,7 +11448,7 @@
 		(instances
 			(project "LTC-7001-Trip_E_1.06"
 				(path "/15c5a45a-fbb6-42fb-b6b4-6b46213fe773"
-					(reference "D4")
+					(reference "Z2")
 					(unit 1)
 				)
 			)
@@ -11535,7 +11567,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LTC-FET:RESC11050X120N"
+		(property "Footprint" "LTC-FET:RESC11050X120N_Mod"
 			(at 118.11 67.818 90)
 			(hide yes)
 			(show_name no)
@@ -11666,7 +11698,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 157.48 102.87 180)
+		(at 158.75 118.11 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11676,7 +11708,7 @@
 		(dnp no)
 		(uuid "4e9eebff-f77f-4650-baf0-c0702817ace5")
 		(property "Reference" "R19"
-			(at 155.194 104.14 0)
+			(at 156.464 119.38 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11687,7 +11719,7 @@
 			)
 		)
 		(property "Value" "5k1"
-			(at 155.448 101.6 0)
+			(at 156.718 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11698,7 +11730,7 @@
 			)
 		)
 		(property "Footprint" "LTC-FET:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 159.258 102.87 90)
+			(at 160.528 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11709,7 +11741,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.48 102.87 0)
+			(at 158.75 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11720,7 +11752,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 157.48 102.87 0)
+			(at 158.75 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12211,6 +12243,84 @@
 			(project "LTC-7001-Trip_E_1.06"
 				(path "/15c5a45a-fbb6-42fb-b6b4-6b46213fe773"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 58.42 52.07 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "52c0140d-220c-4f2f-8c70-d31416de1d34")
+		(property "Reference" "TP5"
+			(at 56.642 46.482 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "RELAY"
+			(at 54.864 44.196 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TestPoint:TestPoint_THTPad_3.0x3.0mm_Drill1.5mm"
+			(at 63.5 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 58.42 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1e57ec86-d1af-47b5-b2fc-965f00000648")
+		)
+		(instances
+			(project "LTC-7001-Trip_E_1.06"
+				(path "/15c5a45a-fbb6-42fb-b6b4-6b46213fe773"
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -13976,7 +14086,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d6f7329-df8c-4a2a-9c0c-835c9b15c8d5")
-		(property "Reference" "K2"
+		(property "Reference" "K1"
 			(at 76.2 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14232,7 +14342,7 @@
 		(instances
 			(project "LTC-7001-Trip_E_1.06"
 				(path "/15c5a45a-fbb6-42fb-b6b4-6b46213fe773"
-					(reference "K2")
+					(reference "K1")
 					(unit 1)
 				)
 			)
@@ -14904,8 +15014,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:2N7002")
-		(at 166.37 107.95 0)
-		(mirror x)
+		(at 167.64 123.19 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14915,7 +15024,7 @@
 		(dnp no)
 		(uuid "8e1797db-f40b-47cd-81b5-44d1f4bbcd91")
 		(property "Reference" "Q9"
-			(at 163.576 104.14 0)
+			(at 164.846 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14926,7 +15035,7 @@
 			)
 		)
 		(property "Value" "2N7002"
-			(at 175.514 117.856 0)
+			(at 156.464 127 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14937,7 +15046,7 @@
 			)
 		)
 		(property "Footprint" "LTC-FET:SOT-23-Mod2"
-			(at 171.45 106.045 0)
+			(at 172.72 125.095 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14950,7 +15059,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF"
-			(at 171.45 104.14 0)
+			(at 172.72 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14962,7 +15071,7 @@
 			)
 		)
 		(property "Description" "0.115A Id, 60V Vds, N-Channel MOSFET, SOT-23"
-			(at 166.37 107.95 0)
+			(at 167.64 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14992,7 +15101,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 153.67 86.36 90)
+		(at 154.94 101.6 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15002,7 +15111,7 @@
 		(dnp no)
 		(uuid "8edb5559-c296-49ce-b7c0-5928518587b3")
 		(property "Reference" "C16"
-			(at 154.178 80.772 90)
+			(at 155.448 96.012 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15013,7 +15122,7 @@
 			)
 		)
 		(property "Value" "10nf 100v"
-			(at 158.242 82.55 90)
+			(at 160.02 97.79 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15024,7 +15133,7 @@
 			)
 		)
 		(property "Footprint" "LTC-FET:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 157.48 85.3948 0)
+			(at 158.75 100.6348 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15035,7 +15144,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 86.36 0)
+			(at 154.94 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15046,7 +15155,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 153.67 86.36 0)
+			(at 154.94 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15317,7 +15426,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "951633b7-1263-4fc2-ab31-efd8ddf249be")
-		(property "Reference" "D8"
+		(property "Reference" "Z1"
 			(at 111.252 109.22 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15381,7 +15490,7 @@
 		(instances
 			(project "LTC-7001-Trip_E_1.06"
 				(path "/15c5a45a-fbb6-42fb-b6b4-6b46213fe773"
-					(reference "D8")
+					(reference "Z1")
 					(unit 1)
 				)
 			)
@@ -16455,10 +16564,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b3821019-15aa-4ad2-9d92-0ff14a85f146")
-		(property "Reference" "D2"
-			(at 135.89 140.9699 90)
+		(property "Reference" "Z3"
+			(at 135.636 141.986 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16468,8 +16576,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "5v6"
-			(at 135.89 143.5099 90)
+		(property "Value" "5v6 Zener"
+			(at 130.556 136.652 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16521,7 +16629,7 @@
 		(instances
 			(project "LTC-7001-Trip_E_1.06"
 				(path "/15c5a45a-fbb6-42fb-b6b4-6b46213fe773"
-					(reference "D2")
+					(reference "Z3")
 					(unit 1)
 				)
 			)
@@ -17571,7 +17679,7 @@
 				)
 			)
 		)
-		(property "Value" "L78L05_TO92"
+		(property "Value" "L78L05_SOT89"
 			(at 170.18 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17635,7 +17743,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 157.48 91.44 180)
+		(at 158.75 107.95 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17645,7 +17753,7 @@
 		(dnp no)
 		(uuid "c6234a43-cc9f-4c9f-8ced-c081939bd8af")
 		(property "Reference" "R18"
-			(at 163.322 92.456 0)
+			(at 164.592 108.966 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17656,7 +17764,7 @@
 			)
 		)
 		(property "Value" "22r"
-			(at 163.322 90.678 0)
+			(at 164.592 107.188 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17667,7 +17775,7 @@
 			)
 		)
 		(property "Footprint" "LTC-FET:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 159.258 91.44 90)
+			(at 160.528 107.95 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17678,7 +17786,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 157.48 91.44 0)
+			(at 158.75 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17689,7 +17797,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 157.48 91.44 0)
+			(at 158.75 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18618,7 +18726,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 168.91 102.87 180)
+		(at 170.18 128.27 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18629,7 +18737,7 @@
 		(fields_autoplaced yes)
 		(uuid "dc49026e-3a30-4edb-a797-5ffdf1187e48")
 		(property "Reference" "#PWR032"
-			(at 168.91 96.52 0)
+			(at 170.18 134.62 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18640,17 +18748,18 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 168.91 97.79 0)
+			(at 172.72 129.5399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 102.87 0)
+			(at 170.18 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18661,7 +18770,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 102.87 0)
+			(at 170.18 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18672,7 +18781,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 168.91 102.87 0)
+			(at 170.18 128.27 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19047,7 +19156,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LTC-FET:RESC11050X120N"
+		(property "Footprint" "LTC-FET:RESC11050X120N-hole"
 			(at 250.952 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -19199,7 +19308,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 119.634 110.998 0)
+			(at 119.126 111.506 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
