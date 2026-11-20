@@ -946,7 +946,7 @@
 				)
 			)
 		)
-		(property "Description" "Zener diode"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -963,17 +963,11 @@
 		(path "/4b004699-9f01-45df-9e86-370608a15bce")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -2.3 -1.075)
-			(end -2.3 1.05)
+			(start -2.375 -1.075)
+			(end -2.375 1.0375)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -982,7 +976,7 @@
 			(uuid "0240879c-44f5-440e-8bce-7c4086a5f5ef")
 		)
 		(fp_line
-			(start -2.3 -1.075)
+			(start -2.375 -1.075)
 			(end 1.65 -1.075)
 			(stroke
 				(width 0.12)
@@ -992,7 +986,7 @@
 			(uuid "daa9c5f9-0f91-490f-9aed-64013413a507")
 		)
 		(fp_line
-			(start -2.3 1.05)
+			(start -2.375 1.05)
 			(end 1.65 1.05)
 			(stroke
 				(width 0.12)
@@ -1052,8 +1046,8 @@
 			(uuid "ca24e060-c27a-4596-89d1-0ca6c968784f")
 		)
 		(fp_line
-			(start -2.3 -1.15)
-			(end -2.3 1.15)
+			(start -2.375 -1.15)
+			(end -2.375 1.15)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -1062,7 +1056,7 @@
 			(uuid "f177e8ad-7bf7-485c-88ea-a0aafb1c7f68")
 		)
 		(fp_line
-			(start -2.3 -1.15)
+			(start -2.375 -1.15)
 			(end 2.2 -1.15)
 			(stroke
 				(width 0.05)
@@ -1083,7 +1077,7 @@
 		)
 		(fp_line
 			(start 2.2 1.15)
-			(end -2.3 1.15)
+			(end -2.375 1.15)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -2737,12 +2731,6 @@
 		(path "/53e7f280-8a13-4320-bc87-461481a48b1d")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "8" "5" "7" "6")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2756,36 +2744,6 @@
 			(uuid "257fae21-c897-479b-bfc6-5a13133455b9")
 		)
 		(fp_line
-			(start 2.06 2.605)
-			(end 2.06 2.7)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "0683fa37-3653-4a60-9fff-4124114c6cc2")
-		)
-		(fp_line
-			(start 2.06 -2.7)
-			(end 2.06 -2.605)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "be5d3d46-03f6-40e5-a7f8-d3315ddfcd65")
-		)
-		(fp_line
-			(start -2.06 2.7)
-			(end -2.06 2.605)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "0b67f85f-420c-4655-b9ab-8e249a4b5431")
-		)
-		(fp_line
 			(start -2.06 -2.7)
 			(end 2.06 -2.7)
 			(stroke
@@ -2794,16 +2752,6 @@
 			)
 			(layer "F.SilkS")
 			(uuid "3b0b24df-556e-481a-9fbb-2512c561c0eb")
-		)
-		(fp_line
-			(start -2.06 -2.7)
-			(end -2.06 -2.56)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "0234f5f0-f5d7-42b6-a382-2208c6a5a6db")
 		)
 		(fp_poly
 			(pts
@@ -3144,7 +3092,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "Q8"
-			(at 1.6025 -2.352 180)
+			(at 0.3325 -2.86 180)
 			(layer "F.SilkS")
 			(uuid "a81e3fb1-949a-4765-b6ae-6408fda7bf1b")
 			(effects
@@ -3191,33 +3139,27 @@
 		(path "/5c872f04-e0f8-4073-bca1-586b68e7473d")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
+			(start -0.76 -1.65)
+			(end 0.76 -1.65)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e0508d46-bdf2-4836-ae4a-8f1c0b8471ef")
+		)
+		(fp_line
 			(start 0.76 -1.625)
-			(end 0.76 -0.65)
+			(end 0.76 -0.7)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
 			(uuid "ca9bc878-6fbb-4362-9b09-344ef92dd645")
-		)
-		(fp_line
-			(start -0.76 -1.625)
-			(end 0.76 -1.625)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "7a24a18c-0f54-443c-a670-4f816ee35431")
 		)
 		(fp_line
 			(start -0.76 0.275)
@@ -3230,24 +3172,24 @@
 			(uuid "f76a6d93-1802-4b3d-8fb6-425d83569322")
 		)
 		(fp_line
-			(start 0.76 0.625)
-			(end 0.76 1.6)
+			(start 0.76 0.725)
+			(end 0.76 1.675)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7a24a18c-0f54-443c-a670-4f816ee35431")
+		)
+		(fp_line
+			(start 0.76 1.675)
+			(end -0.76 1.675)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
 			(uuid "8235d73e-2234-45e9-943d-5e9c4806749c")
-		)
-		(fp_line
-			(start 0.76 1.6)
-			(end -0.76 1.6)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "e0508d46-bdf2-4836-ae4a-8f1c0b8471ef")
 		)
 		(fp_poly
 			(pts
@@ -5313,7 +5255,7 @@
 				)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5326,42 +5268,10 @@
 				)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ad603683-a9ec-4a15-a485-6780c042c1f8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "90758487-2ed6-4631-aec9-266be61db92c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/a9fbb9dd-1f79-45d9-82a6-09b50c11dd02")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5415,7 +5325,7 @@
 			(uuid "6a3d68ba-fe88-403e-996f-51fb1ac41b55")
 		)
 		(fp_line
-			(start -2.3 1.05)
+			(start -2.375 1.05)
 			(end 1.65 1.05)
 			(stroke
 				(width 0.12)
@@ -5425,7 +5335,7 @@
 			(uuid "80ada5fa-c132-47cd-a544-f902367b7820")
 		)
 		(fp_line
-			(start -2.3 -1.075)
+			(start -2.375 -1.075)
 			(end 1.65 -1.075)
 			(stroke
 				(width 0.12)
@@ -5435,8 +5345,8 @@
 			(uuid "f9ba0da8-35dd-4054-8315-1f4ec6b09b05")
 		)
 		(fp_line
-			(start -2.3 -1.075)
-			(end -2.3 1.05)
+			(start -2.375 -1.075)
+			(end -2.375 1.0375)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -5446,7 +5356,7 @@
 		)
 		(fp_line
 			(start 2.2 1.15)
-			(end -2.3 1.15)
+			(end -2.375 1.15)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -5465,7 +5375,7 @@
 			(uuid "a543d63b-b670-4824-98e2-48d06c4f86c0")
 		)
 		(fp_line
-			(start -2.3 -1.15)
+			(start -2.375 -1.15)
 			(end 2.2 -1.15)
 			(stroke
 				(width 0.05)
@@ -5475,8 +5385,8 @@
 			(uuid "4e5f3c60-4411-474c-964c-e791788f45a5")
 		)
 		(fp_line
-			(start -2.3 -1.15)
-			(end -2.3 1.15)
+			(start -2.375 -1.15)
+			(end -2.375 1.15)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -5797,7 +5707,7 @@
 				)
 			)
 		)
-		(property "Description" "Diode"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5810,47 +5720,15 @@
 				)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5e4857a5-0124-439a-a654-738a32008154")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "06951cad-d6ac-434b-8b8f-4bbdd52eb0f6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/d260bdf9-6396-4e14-a36c-dee9031c1e67")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -2.3 -1.075)
-			(end -2.3 1.05)
+			(start -2.375 -1.075)
+			(end -2.375 1.0375)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -5859,7 +5737,7 @@
 			(uuid "17d8d5c8-a872-4de4-b8df-3c83972d5c16")
 		)
 		(fp_line
-			(start -2.3 -1.075)
+			(start -2.375 -1.075)
 			(end 1.65 -1.075)
 			(stroke
 				(width 0.12)
@@ -5869,7 +5747,7 @@
 			(uuid "89a73006-7285-4453-9629-7ff1701bcf1f")
 		)
 		(fp_line
-			(start -2.3 1.05)
+			(start -2.375 1.05)
 			(end 1.65 1.05)
 			(stroke
 				(width 0.12)
@@ -5929,8 +5807,8 @@
 			(uuid "9c6bcf93-5a39-4856-9b64-c65ddba3abaa")
 		)
 		(fp_line
-			(start -2.3 -1.15)
-			(end -2.3 1.15)
+			(start -2.375 -1.15)
+			(end -2.375 1.15)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -5939,7 +5817,7 @@
 			(uuid "03c395f6-4768-4aea-9077-0f20889908f8")
 		)
 		(fp_line
-			(start -2.3 -1.15)
+			(start -2.375 -1.15)
 			(end 2.2 -1.15)
 			(stroke
 				(width 0.05)
@@ -5960,7 +5838,7 @@
 		)
 		(fp_line
 			(start 2.2 1.15)
-			(end -2.3 1.15)
+			(end -2.375 1.15)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -7050,7 +6928,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "LTC-FET:RESC11050X120N"
+	(footprint "LTC-FET:RESC11050X120N-hole"
 		(layer "F.Cu")
 		(uuid "4033b856-76e7-4750-bfda-eb6d08da466d")
 		(at 201.7268 98.044)
@@ -11167,7 +11045,7 @@
 		(descr "SOP, 8 Pin (https://ww2.minicircuits.com/case_style/XX211.pdf)")
 		(tags "SOP SO")
 		(property "Reference" "U1"
-			(at 1.0185 4.191 180)
+			(at 1.0185 4.191 0)
 			(layer "F.SilkS")
 			(uuid "9a3598b9-8d52-4441-a312-b823c3890b66")
 			(effects
@@ -11214,32 +11092,8 @@
 		(path "/d919a8cd-48b1-4eaa-b2b5-25196edd20da")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "3" "2" "1")
-			)
-			(unit
-				(name "B")
-				(pins "5" "6" "7")
-			)
-			(unit
-				(name "C")
-				(pins "8" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start 1.99 -2.59)
-			(end 1.99 -2.49)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "e6f97ca3-6b02-4169-abcd-0b297ccda299")
-		)
 		(fp_line
 			(start -1.99 -2.59)
 			(end 1.99 -2.59)
@@ -11251,26 +11105,6 @@
 			(uuid "8f83d5ec-67df-4bca-961b-2d3580f4863e")
 		)
 		(fp_line
-			(start -1.99 -2.49)
-			(end -1.99 -2.59)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "199c9348-f79d-4c0a-b0a4-22fc550d3b55")
-		)
-		(fp_line
-			(start 1.99 2.49)
-			(end 1.99 2.59)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "1c7f7150-e0f6-45b7-ad1d-1d9c79a0ca10")
-		)
-		(fp_line
 			(start 1.99 2.59)
 			(end -1.99 2.59)
 			(stroke
@@ -11279,16 +11113,6 @@
 			)
 			(layer "F.SilkS")
 			(uuid "5ee25c7a-9c66-46ea-90a4-859a03e9913e")
-		)
-		(fp_line
-			(start -1.99 2.59)
-			(end -1.99 2.49)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "8eced144-ad31-412f-b291-04cfccfa3b18")
 		)
 		(fp_poly
 			(pts
@@ -12439,27 +12263,21 @@
 		(path "/b3f5061b-fd08-4d93-a669-ae60b8dfb5d4")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start 0.76 1.6)
-			(end -0.76 1.6)
+			(start 0.76 1.675)
+			(end -0.76 1.675)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "11d43706-d45d-43fc-9968-74c6f915b72d")
+			(uuid "68275d6c-e007-4521-8d0a-f3fadaeddc7a")
 		)
 		(fp_line
-			(start 0.76 0.625)
-			(end 0.76 1.6)
+			(start 0.76 0.725)
+			(end 0.76 1.675)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -12469,7 +12287,7 @@
 		)
 		(fp_line
 			(start 0.76 -1.625)
-			(end 0.76 -0.65)
+			(end 0.76 -0.7)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -12488,14 +12306,14 @@
 			(uuid "bf57213f-cf5c-42d0-b86a-ba80ad381f4b")
 		)
 		(fp_line
-			(start -0.76 -1.625)
-			(end 0.76 -1.625)
+			(start -0.76 -1.65)
+			(end 0.76 -1.65)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "68275d6c-e007-4521-8d0a-f3fadaeddc7a")
+			(uuid "11d43706-d45d-43fc-9968-74c6f915b72d")
 		)
 		(fp_poly
 			(pts
@@ -12948,7 +12766,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "LTC-FET:RESC11050X120N"
+	(footprint "LTC-FET:RESC11050X120N_Mod"
 		(layer "F.Cu")
 		(uuid "729be648-8cc4-4417-b1aa-63e05833f2b1")
 		(at 174.752 77.433 -90)
@@ -13138,17 +12956,6 @@
 			(roundrect_rratio 0.204082)
 			(net "Net-(K2-NO)")
 			(pintype "passive")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curved_edges no)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
 			(uuid "1f4f1066-912d-405a-a4bc-2f8c093a7a39")
 		)
 		(pad "2" smd roundrect
@@ -13158,17 +12965,6 @@
 			(roundrect_rratio 0.204082)
 			(net "/50v_Out")
 			(pintype "passive")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curved_edges no)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
 			(uuid "f0ab076c-9593-4547-a840-45ee74c512d2")
 		)
 		(pad "2" smd rect
@@ -13874,12 +13670,6 @@
 		(path "/bbd3d7aa-cd30-4833-b445-72af813613cc")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14078,7 +13868,7 @@
 		)
 		(pad "2" smd rect
 			(at -3 5.551 90)
-			(size 0.8 2.8)
+			(size 0.7 2.8)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net "/50v_Out")
 			(pinfunction "D_2")
@@ -14793,7 +14583,7 @@
 				)
 			)
 		)
-		(property "Description" "1000V 1A General Purpose Rectifier Diode, DO-41"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14806,47 +14596,15 @@
 				)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b76c03a1-ff31-4437-be0c-c667042a34a9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8f5c39f6-75c0-42f2-873d-89c0b0cc4c42")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "D*DO?41*")
 		(path "/be0b2357-6540-42bf-a274-02bac54aae72")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -2.3 -1.075)
-			(end -2.3 1.05)
+			(start -2.375 -1.075)
+			(end -2.375 1.0375)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -14855,7 +14613,7 @@
 			(uuid "49b8bd03-642b-4cff-a88c-d8cc70e9832e")
 		)
 		(fp_line
-			(start -2.3 -1.075)
+			(start -2.375 -1.075)
 			(end 1.65 -1.075)
 			(stroke
 				(width 0.12)
@@ -14865,7 +14623,7 @@
 			(uuid "46246967-1f29-4a01-953a-424d40ba17d8")
 		)
 		(fp_line
-			(start -2.3 1.05)
+			(start -2.375 1.05)
 			(end 1.65 1.05)
 			(stroke
 				(width 0.12)
@@ -14925,8 +14683,8 @@
 			(uuid "4f587077-af56-46ea-b059-664bb8169e97")
 		)
 		(fp_line
-			(start -2.3 -1.15)
-			(end -2.3 1.15)
+			(start -2.375 -1.15)
+			(end -2.375 1.15)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -14935,7 +14693,7 @@
 			(uuid "76abba31-9afd-41b0-a5ac-fecee5c4acfd")
 		)
 		(fp_line
-			(start -2.3 -1.15)
+			(start -2.375 -1.15)
 			(end 2.2 -1.15)
 			(stroke
 				(width 0.05)
@@ -14956,7 +14714,7 @@
 		)
 		(fp_line
 			(start 2.2 1.15)
-			(end -2.3 1.15)
+			(end -2.375 1.15)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -15212,12 +14970,6 @@
 		(path "/c1b01d31-7f3f-4bb6-b705-24a338252e54")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2" "3" "4" "7" "8" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15229,46 +14981,6 @@
 			)
 			(layer "F.SilkS")
 			(uuid "0068a9c9-4c5a-4ca3-b555-a68eb0463385")
-		)
-		(fp_line
-			(start -2.06 -2.465)
-			(end -2.06 -2.56)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "b70e8433-3d8e-4afb-afd2-07e6291e04ef")
-		)
-		(fp_line
-			(start -2.06 2.56)
-			(end -2.06 2.465)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "cdb402c9-3ed8-4226-8644-de8521caad02")
-		)
-		(fp_line
-			(start 2.06 -2.56)
-			(end 2.06 -2.465)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "60e5e341-c5bc-4d96-b7e4-287407753498")
-		)
-		(fp_line
-			(start 2.06 2.465)
-			(end 2.06 2.56)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "42895e46-109b-423e-92b6-2592802971da")
 		)
 		(fp_line
 			(start 2.06 2.56)
@@ -15623,7 +15335,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "Q9"
-			(at -0.127 2.8725 180)
+			(at -0.127 2.8725 90)
 			(layer "F.SilkS")
 			(uuid "5dbd4c70-af58-4735-a6a0-411ee88575fa")
 			(effects
@@ -15670,27 +15382,21 @@
 		(path "/8e1797db-f40b-47cd-81b5-44d1f4bbcd91")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start 0.76 1.6)
-			(end -0.76 1.6)
+			(start 0.76 1.675)
+			(end -0.76 1.675)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "96aca6d7-9e11-40da-b64a-10d3a5eb8706")
+			(uuid "81fa14d1-e2a0-4dee-93e5-a146492418bf")
 		)
 		(fp_line
-			(start 0.76 0.625)
-			(end 0.76 1.6)
+			(start 0.76 0.725)
+			(end 0.76 1.675)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -15709,24 +15415,24 @@
 			(uuid "b6867a0c-db96-4a27-a998-61d3b364c8ed")
 		)
 		(fp_line
-			(start -0.76 -1.625)
-			(end 0.76 -1.625)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "81fa14d1-e2a0-4dee-93e5-a146492418bf")
-		)
-		(fp_line
 			(start 0.76 -1.625)
-			(end 0.76 -0.65)
+			(end 0.76 -0.7)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
 			(uuid "34e399a1-ad65-4af8-9ecc-b23645c04fe0")
+		)
+		(fp_line
+			(start -0.76 -1.65)
+			(end 0.76 -1.65)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "96aca6d7-9e11-40da-b64a-10d3a5eb8706")
 		)
 		(fp_poly
 			(pts
@@ -15999,7 +15705,7 @@
 			)
 		)
 	)
-	(footprint "LTC-FET:RESC11050X120N"
+	(footprint "LTC-FET:RESC11050X120N_Mod"
 		(layer "F.Cu")
 		(uuid "8a46d53d-27e4-410e-90f9-d5034e60ae7c")
 		(at 181.102 77.47 -90)
@@ -16189,17 +15895,6 @@
 			(roundrect_rratio 0.204082)
 			(net "Net-(K2-NO)")
 			(pintype "passive")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curved_edges no)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
 			(uuid "da90ef7f-a3a4-44a1-b398-dedff3f0678c")
 		)
 		(pad "2" smd roundrect
@@ -16209,17 +15904,6 @@
 			(roundrect_rratio 0.204082)
 			(net "/50v_Out")
 			(pintype "passive")
-			(teardrops
-				(best_length_ratio 0.5)
-				(max_length 1)
-				(best_width_ratio 1)
-				(max_width 2)
-				(curved_edges no)
-				(filter_ratio 0.9)
-				(enabled yes)
-				(allow_two_segments yes)
-				(prefer_zone_connections yes)
-			)
 			(uuid "1a4a6105-ff53-482f-91c9-c46849204bea")
 		)
 		(pad "2" smd rect
@@ -16933,7 +16617,7 @@
 		(descr "SOT, 3 Pin (JEDEC TO-236 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=TO-236)")
 		(tags "SOT TO_SOT_SMD")
 		(property "Reference" "Q6"
-			(at -2.999342 0.083083 0)
+			(at -3.253342 -0.424917 0)
 			(layer "F.SilkS")
 			(uuid "f9477886-dc62-43a7-b10c-040e15c27756")
 			(effects
@@ -16980,17 +16664,11 @@
 		(path "/2950cb55-5300-4395-8e80-ba4e90774b52")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -0.76 -1.625)
-			(end 0.76 -1.625)
+			(start -0.76 -1.65)
+			(end 0.76 -1.65)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -17010,7 +16688,7 @@
 		)
 		(fp_line
 			(start 0.76 -1.625)
-			(end 0.76 -0.65)
+			(end 0.76 -0.7)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -17019,24 +16697,24 @@
 			(uuid "3c98ab52-a777-4b51-bc6c-22acf89e9fe1")
 		)
 		(fp_line
-			(start 0.76 0.625)
-			(end 0.76 1.6)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "0f1fcb88-2ce0-4227-bddf-e6a4d94bda9c")
-		)
-		(fp_line
-			(start 0.76 1.6)
-			(end -0.76 1.6)
+			(start 0.76 0.725)
+			(end 0.76 1.675)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
 			(uuid "f0bd2fc1-8f6a-4979-93e5-4325efe2e065")
+		)
+		(fp_line
+			(start 0.76 1.675)
+			(end -0.76 1.675)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "0f1fcb88-2ce0-4227-bddf-e6a4d94bda9c")
 		)
 		(fp_poly
 			(pts
@@ -17518,7 +17196,7 @@
 				)
 			)
 		)
-		(property "Description" "Zener diode"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17535,17 +17213,11 @@
 		(path "/b3821019-15aa-4ad2-9d92-0ff14a85f146")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -2.3 -1.075)
-			(end -2.3 1.05)
+			(start -2.375 -1.075)
+			(end -2.375 1.0375)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -17554,7 +17226,7 @@
 			(uuid "dc63e862-c9de-4991-9937-03917fdacd2f")
 		)
 		(fp_line
-			(start -2.3 -1.075)
+			(start -2.375 -1.075)
 			(end 1.65 -1.075)
 			(stroke
 				(width 0.12)
@@ -17564,7 +17236,7 @@
 			(uuid "588000e9-2639-4cb0-ac0f-122e36443305")
 		)
 		(fp_line
-			(start -2.3 1.05)
+			(start -2.375 1.05)
 			(end 1.65 1.05)
 			(stroke
 				(width 0.12)
@@ -17624,8 +17296,8 @@
 			(uuid "c6d9ec9d-9bba-4587-8329-ab575d44dc45")
 		)
 		(fp_line
-			(start -2.3 -1.15)
-			(end -2.3 1.15)
+			(start -2.375 -1.15)
+			(end -2.375 1.15)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -17634,7 +17306,7 @@
 			(uuid "b2884e80-bb4e-4bde-847e-fda75c4813bc")
 		)
 		(fp_line
-			(start -2.3 -1.15)
+			(start -2.375 -1.15)
 			(end 2.2 -1.15)
 			(stroke
 				(width 0.05)
@@ -17655,7 +17327,7 @@
 		)
 		(fp_line
 			(start 2.2 1.15)
-			(end -2.3 1.15)
+			(end -2.375 1.15)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -17821,27 +17493,11 @@
 		(path "/02ff0905-9f34-4af4-abbc-09a5902e2535")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start 0.76 1.6)
-			(end -0.76 1.6)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "5873419b-89f1-4353-bfd8-88f9997f32bf")
-		)
-		(fp_line
-			(start 0.76 0.625)
-			(end 0.76 1.6)
+			(start 0.76 1.675)
+			(end -0.76 1.675)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -17850,8 +17506,18 @@
 			(uuid "2d3316eb-e2ba-470f-97c3-06de91bb5ee6")
 		)
 		(fp_line
+			(start 0.76 0.725)
+			(end 0.76 1.675)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "5873419b-89f1-4353-bfd8-88f9997f32bf")
+		)
+		(fp_line
 			(start 0.76 -1.625)
-			(end 0.76 -0.65)
+			(end 0.76 -0.7)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -17870,8 +17536,8 @@
 			(uuid "fd86d649-0172-4907-a5b5-38b466e3851e")
 		)
 		(fp_line
-			(start -0.76 -1.625)
-			(end 0.76 -1.625)
+			(start -0.76 -1.65)
+			(end 0.76 -1.65)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -18540,23 +18206,17 @@
 		(path "/29e72fd0-5a6e-4e3b-b401-9ef7b59af048")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -0.76 -1.625)
-			(end 0.76 -1.625)
+			(start -0.76 -1.65)
+			(end 0.76 -1.65)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3b438179-e03d-40c3-97f2-2e09ed2d658d")
+			(uuid "6aa97eab-49f5-4d62-b86a-a029d88a0158")
 		)
 		(fp_line
 			(start -0.76 0.275)
@@ -18570,7 +18230,7 @@
 		)
 		(fp_line
 			(start 0.76 -1.625)
-			(end 0.76 -0.65)
+			(end 0.76 -0.7)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -18579,18 +18239,18 @@
 			(uuid "419841aa-cf0c-4a9e-8a74-51b940416eac")
 		)
 		(fp_line
-			(start 0.76 0.625)
-			(end 0.76 1.6)
+			(start 0.76 0.725)
+			(end 0.76 1.675)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6aa97eab-49f5-4d62-b86a-a029d88a0158")
+			(uuid "3b438179-e03d-40c3-97f2-2e09ed2d658d")
 		)
 		(fp_line
-			(start 0.76 1.6)
-			(end -0.76 1.6)
+			(start 0.76 1.675)
+			(end -0.76 1.675)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -18923,17 +18583,11 @@
 		(path "/7fef494b-3413-4d44-96f1-d02da0977989")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start 0.76 1.6)
-			(end -0.76 1.6)
+			(start 0.76 1.675)
+			(end -0.76 1.675)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -18942,8 +18596,8 @@
 			(uuid "3199e11e-f8cd-45eb-ac13-08c2b9aaf402")
 		)
 		(fp_line
-			(start 0.76 0.625)
-			(end 0.76 1.6)
+			(start 0.76 0.725)
+			(end 0.76 1.675)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -18953,7 +18607,7 @@
 		)
 		(fp_line
 			(start 0.76 -1.625)
-			(end 0.76 -0.65)
+			(end 0.76 -0.7)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -18972,8 +18626,8 @@
 			(uuid "58c85141-efbf-45a0-b137-9854f2cfdf28")
 		)
 		(fp_line
-			(start -0.76 -1.625)
-			(end 0.76 -1.625)
+			(start -0.76 -1.65)
+			(end 0.76 -1.65)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -19860,7 +19514,7 @@
 				)
 			)
 		)
-		(property "Value" "L78L05_TO92"
+		(property "Value" "L78L05_SOT89"
 			(at 0 3.5 0)
 			(layer "F.Fab")
 			(uuid "5ccf5ac7-29ad-412e-a1f5-4e255a3d7eee")
@@ -20552,27 +20206,11 @@
 		(path "/144db770-e45c-494c-aca5-4ee6dd287c26")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start 0.76 1.6)
-			(end -0.76 1.6)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "bef9b675-dc86-47fa-b671-dc77bd6060d8")
-		)
-		(fp_line
-			(start 0.76 0.625)
-			(end 0.76 1.6)
+			(start 0.76 1.675)
+			(end -0.76 1.675)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -20581,8 +20219,18 @@
 			(uuid "92db025d-677c-49b8-8689-e726dc803d0c")
 		)
 		(fp_line
+			(start 0.76 0.725)
+			(end 0.76 1.675)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "bef9b675-dc86-47fa-b671-dc77bd6060d8")
+		)
+		(fp_line
 			(start 0.76 -1.625)
-			(end 0.76 -0.65)
+			(end 0.76 -0.7)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -20601,8 +20249,8 @@
 			(uuid "7e4a6cd5-8f76-4928-9c78-e50733a2e697")
 		)
 		(fp_line
-			(start -0.76 -1.625)
-			(end 0.76 -1.625)
+			(start -0.76 -1.65)
+			(end 0.76 -1.65)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -23601,7 +23249,7 @@
 		(descr "D_SOD-123F")
 		(tags "D_SOD-123F")
 		(property "Reference" "D1"
-			(at 3.137196 0.078292 180)
+			(at 3.391196 0.078292 180)
 			(layer "F.SilkS")
 			(uuid "e89c2ceb-cfd8-4c07-9757-a37d903156ea")
 			(effects
@@ -23648,46 +23296,14 @@
 				)
 			)
 		)
-		(property "Sim.Device" "D"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "99922f44-a929-448c-a928-e2251db0e677")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4d9cf53e-c2b5-4c18-9052-e113cbe3ac57")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "D*DO?41*")
 		(path "/3e482cd4-ba3c-4c30-9c4a-18e9fee7383d")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -2.3 1.05)
+			(start -2.375 1.05)
 			(end 1.65 1.05)
 			(stroke
 				(width 0.12)
@@ -23747,8 +23363,8 @@
 			(uuid "9136d405-f436-4d01-abb3-d4e1f5d98be4")
 		)
 		(fp_line
-			(start -2.3 -1.075)
-			(end -2.3 1.05)
+			(start -2.375 -1.075)
+			(end -2.375 1.0375)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -23757,7 +23373,7 @@
 			(uuid "707a6c4a-7643-43b5-b1a6-41a496e34854")
 		)
 		(fp_line
-			(start -2.3 -1.075)
+			(start -2.375 -1.075)
 			(end 1.65 -1.075)
 			(stroke
 				(width 0.12)
@@ -23768,7 +23384,7 @@
 		)
 		(fp_line
 			(start 2.2 1.15)
-			(end -2.3 1.15)
+			(end -2.375 1.15)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -23777,8 +23393,8 @@
 			(uuid "5d900dca-e1ce-40e5-bc43-a17e89da34db")
 		)
 		(fp_line
-			(start -2.3 -1.15)
-			(end -2.3 1.15)
+			(start -2.375 -1.15)
+			(end -2.375 1.15)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -23787,7 +23403,7 @@
 			(uuid "510b074e-d1f1-49a7-8a12-e0856c487ede")
 		)
 		(fp_line
-			(start -2.3 -1.15)
+			(start -2.375 -1.15)
 			(end 2.2 -1.15)
 			(stroke
 				(width 0.05)
@@ -23867,7 +23483,7 @@
 			(uuid "15a5a746-c997-4640-8551-a43f6ffcac9d")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.137196 0.078292 180)
+			(at 3.391196 0.078292 180)
 			(layer "F.Fab")
 			(uuid "560c1c71-eef3-46b1-ba0b-655f18d0eeec")
 			(effects
@@ -23917,7 +23533,7 @@
 		(descr "D_SOD-123F")
 		(tags "D_SOD-123F")
 		(property "Reference" "D8"
-			(at 4.188 0.127 180)
+			(at 4.188 0.127 90)
 			(layer "F.SilkS")
 			(uuid "378a63cd-59ec-4a14-929c-07e340c106c6")
 			(effects
@@ -23951,7 +23567,7 @@
 				)
 			)
 		)
-		(property "Description" "Zener diode"
+		(property "Description" ""
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -23968,16 +23584,10 @@
 		(path "/951633b7-1263-4fc2-ab31-efd8ddf249be")
 		(sheetname "/")
 		(sheetfile "LTC-7001-Trip_E_1.06.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -2.3 -1.075)
+			(start -2.375 -1.075)
 			(end 1.65 -1.075)
 			(stroke
 				(width 0.12)
@@ -23987,8 +23597,8 @@
 			(uuid "f3eb94fc-8938-4f33-9171-9d5d70a204d7")
 		)
 		(fp_line
-			(start -2.3 -1.075)
-			(end -2.3 1.05)
+			(start -2.375 -1.075)
+			(end -2.375 1.0375)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -24047,7 +23657,7 @@
 			(uuid "981cb556-e3b5-46fe-a03f-1b21c1e368e3")
 		)
 		(fp_line
-			(start -2.3 1.05)
+			(start -2.375 1.05)
 			(end 1.65 1.05)
 			(stroke
 				(width 0.12)
@@ -24067,7 +23677,7 @@
 			(uuid "36da8f0d-94df-421f-a993-7ec8ae2212c7")
 		)
 		(fp_line
-			(start -2.3 -1.15)
+			(start -2.375 -1.15)
 			(end 2.2 -1.15)
 			(stroke
 				(width 0.05)
@@ -24077,8 +23687,8 @@
 			(uuid "cbc994ad-7cf4-4810-8287-2f11fcae8f7b")
 		)
 		(fp_line
-			(start -2.3 -1.15)
-			(end -2.3 1.15)
+			(start -2.375 -1.15)
+			(end -2.375 1.15)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -24088,7 +23698,7 @@
 		)
 		(fp_line
 			(start 2.2 1.15)
-			(end -2.3 1.15)
+			(end -2.375 1.15)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -24157,7 +23767,7 @@
 			(uuid "fa5097e4-478b-4e66-ba0c-1714f67d4767")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 4.188 0.127 180)
+			(at 4.188 0.127 90)
 			(layer "F.Fab")
 			(uuid "cb628e01-3310-4c2d-b770-f139d3594e25")
 			(effects
@@ -25809,6 +25419,18 @@
 				(size 1.5 1.5)
 				(thickness 0.3)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Component R43 not on Stencil"
+		(at 223.266 109.982 90)
+		(layer "F.Fab")
+		(uuid "ecf85b78-4704-4e50-bce6-d1056c3a9101")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
@@ -35829,7 +35451,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30211)
+		(priority 30210)
 		(attr
 			(teardrop
 				(type padvia)
@@ -35861,7 +35483,7 @@
 		(net "Net-(Q2-G)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30160)
+		(priority 30159)
 		(attr
 			(teardrop
 				(type padvia)
@@ -35896,7 +35518,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30064)
+		(priority 30063)
 		(attr
 			(teardrop
 				(type padvia)
@@ -35962,7 +35584,7 @@
 		(net "+12V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30166)
+		(priority 30165)
 		(attr
 			(teardrop
 				(type padvia)
@@ -35995,7 +35617,7 @@
 		(net "/OL")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30065)
+		(priority 30064)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36028,7 +35650,7 @@
 		(net "/712OUT")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30066)
+		(priority 30065)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36061,7 +35683,7 @@
 		(net "/50v_Out")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30067)
+		(priority 30066)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36094,7 +35716,7 @@
 		(net "/50v_Out")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30142)
+		(priority 30141)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36129,7 +35751,7 @@
 		(net "Net-(U1A--)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30068)
+		(priority 30067)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36231,7 +35853,7 @@
 		(net "/OL")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30069)
+		(priority 30068)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36264,7 +35886,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30170)
+		(priority 30169)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36296,7 +35918,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30191)
+		(priority 30190)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36328,7 +35950,7 @@
 		(net "/50v_Out")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30152)
+		(priority 30151)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36396,7 +36018,7 @@
 		(net "Net-(Q2-G)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30204)
+		(priority 30203)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36429,7 +36051,7 @@
 		(net "+12V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30070)
+		(priority 30069)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36462,7 +36084,7 @@
 		(net "Net-(U1A--)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30117)
+		(priority 30116)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36495,7 +36117,7 @@
 		(net "Net-(Q6-G)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30179)
+		(priority 30178)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36561,7 +36183,7 @@
 		(net "Net-(FB3-Pad1)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30102)
+		(priority 30101)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36594,7 +36216,7 @@
 		(net "Net-(U9-FILTER)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30116)
+		(priority 30115)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36630,7 +36252,7 @@
 		(net "/DISABLE2")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30095)
+		(priority 30094)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36663,7 +36285,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30190)
+		(priority 30189)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36699,7 +36321,7 @@
 		(net "Net-(D2-K)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30098)
+		(priority 30097)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36735,7 +36357,7 @@
 		(net "Net-(CN1-Pad1)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30041)
+		(priority 30040)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36769,7 +36391,7 @@
 		(net "Net-(U1A--)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30118)
+		(priority 30117)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36802,7 +36424,7 @@
 		(net "Net-(U1A-+)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30063)
+		(priority 30062)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36837,7 +36459,7 @@
 		(net "Net-(CN1-Pad3)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30103)
+		(priority 30102)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36903,7 +36525,7 @@
 		(net "Net-(U9-FILTER)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30210)
+		(priority 30209)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36936,7 +36558,7 @@
 		(net "/OL")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30213)
+		(priority 30212)
 		(attr
 			(teardrop
 				(type padvia)
@@ -36969,7 +36591,7 @@
 		(net "/DISABLE2")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30188)
+		(priority 30187)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37004,7 +36626,7 @@
 		(net "/712OUT")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30058)
+		(priority 30057)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37038,7 +36660,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30189)
+		(priority 30188)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37110,7 +36732,7 @@
 		(net "/712OUT")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30140)
+		(priority 30139)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37142,7 +36764,7 @@
 		(net "Net-(D2-K)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30071)
+		(priority 30070)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37210,7 +36832,7 @@
 		(net "Net-(U1A-+)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30153)
+		(priority 30152)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37242,7 +36864,7 @@
 		(net "/50v_IN")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30182)
+		(priority 30181)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37273,7 +36895,7 @@
 		(net "Net-(Q3-D)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30104)
+		(priority 30103)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37305,7 +36927,7 @@
 		(net "Net-(D5-K)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30105)
+		(priority 30104)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37338,7 +36960,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30052)
+		(priority 30051)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37371,7 +36993,7 @@
 		(net "/50v_Out")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30042)
+		(priority 30041)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37404,7 +37026,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30072)
+		(priority 30071)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37436,7 +37058,7 @@
 		(net "Net-(Q9-D)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30162)
+		(priority 30161)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37471,7 +37093,7 @@
 		(net "/i_sense")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30053)
+		(priority 30052)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37504,7 +37126,7 @@
 		(net "Net-(Q3-D)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30146)
+		(priority 30145)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37536,7 +37158,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30214)
+		(priority 30213)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37571,7 +37193,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30163)
+		(priority 30162)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37603,7 +37225,7 @@
 		(net "Net-(Q6-G)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30192)
+		(priority 30191)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37669,7 +37291,7 @@
 		(net "/OSC")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30073)
+		(priority 30072)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37702,7 +37324,7 @@
 		(net "/LM393_EXT")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30106)
+		(priority 30105)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37735,7 +37357,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30207)
+		(priority 30206)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37770,7 +37392,7 @@
 		(net "/OSC")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30132)
+		(priority 30131)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37804,7 +37426,7 @@
 		(net "Net-(U1A--)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30167)
+		(priority 30166)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37842,7 +37464,7 @@
 		(net "Net-(U1A--)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30119)
+		(priority 30118)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37875,7 +37497,7 @@
 		(net "Net-(Q2-G)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30141)
+		(priority 30140)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37910,7 +37532,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30193)
+		(priority 30192)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37942,7 +37564,7 @@
 		(net "/50v_Out")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30060)
+		(priority 30059)
 		(attr
 			(teardrop
 				(type padvia)
@@ -37976,7 +37598,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30143)
+		(priority 30142)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38046,7 +37668,7 @@
 		(net "/BST")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30208)
+		(priority 30207)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38078,7 +37700,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30137)
+		(priority 30136)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38110,7 +37732,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30120)
+		(priority 30119)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38143,7 +37765,7 @@
 		(net "Net-(U1A--)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30107)
+		(priority 30106)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38176,7 +37798,7 @@
 		(net "Net-(D5-K)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30034)
+		(priority 30033)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38209,7 +37831,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30206)
+		(priority 30205)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38244,7 +37866,7 @@
 		(net "/OL")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30131)
+		(priority 30130)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38278,7 +37900,7 @@
 		(net "Net-(J1-Pin_1)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30108)
+		(priority 30107)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38311,7 +37933,7 @@
 		(net "Net-(Q2-G)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30161)
+		(priority 30160)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38348,7 +37970,7 @@
 		(net "/ENABLE")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30101)
+		(priority 30100)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38380,7 +38002,7 @@
 		(net "/712OUT")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30154)
+		(priority 30153)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38415,7 +38037,7 @@
 		(net "Net-(Q8-D)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30074)
+		(priority 30073)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38483,7 +38105,7 @@
 		(net "/DISABLE2")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30043)
+		(priority 30042)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38546,7 +38168,7 @@
 		(net "Net-(U1A--)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30121)
+		(priority 30120)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38579,7 +38201,7 @@
 		(net "Net-(Q8-D)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30185)
+		(priority 30184)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38612,7 +38234,7 @@
 		(net "+12V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30124)
+		(priority 30123)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38685,7 +38307,7 @@
 		(net "Net-(D1-A)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30091)
+		(priority 30090)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38718,7 +38340,7 @@
 		(net "+12V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30205)
+		(priority 30204)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38751,7 +38373,7 @@
 		(net "/OSC")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30054)
+		(priority 30053)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38784,7 +38406,7 @@
 		(net "/50vAmp")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30198)
+		(priority 30197)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38815,7 +38437,7 @@
 		(net "/50vAmp")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30199)
+		(priority 30198)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38846,7 +38468,7 @@
 		(net "+12V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30094)
+		(priority 30093)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38879,7 +38501,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30171)
+		(priority 30170)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38947,7 +38569,7 @@
 		(net "Net-(C16-Pad2)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30090)
+		(priority 30089)
 		(attr
 			(teardrop
 				(type padvia)
@@ -38983,7 +38605,7 @@
 		(net "/DISABLE2")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30109)
+		(priority 30108)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39016,7 +38638,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30044)
+		(priority 30043)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39081,7 +38703,7 @@
 		(net "Net-(IC1-OUT)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30155)
+		(priority 30154)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39148,7 +38770,7 @@
 		(net "+12V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30138)
+		(priority 30137)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39180,7 +38802,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30123)
+		(priority 30122)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39213,7 +38835,7 @@
 		(net "Net-(U1A-+)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30045)
+		(priority 30044)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39246,7 +38868,7 @@
 		(net "Net-(U1A--)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30134)
+		(priority 30133)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39279,7 +38901,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30172)
+		(priority 30171)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39311,7 +38933,7 @@
 		(net "Net-(Q8-D)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30110)
+		(priority 30109)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39374,42 +38996,10 @@
 		)
 	)
 	(zone
-		(net "/50v_Out")
-		(layer "F.Cu")
-		(hatch none 0.1)
-		(priority 30032)
-		(attr
-			(teardrop
-				(type padvia)
-			)
-		)
-		(connect_pads yes
-			(clearance 0)
-		)
-		(min_thickness 0.0254)
-		(fill yes
-			(island_removal_mode 1)
-		)
-		(polygon
-			(pts
-				(xy 180.902 81.619999) (xy 181.302 81.619999) (xy 181.952 80.769999) (xy 181.102 79.918999) (xy 180.252 80.769999)
-			)
-		)
-		(filled_polygon
-			(layer "F.Cu")
-			(pts
-				(xy 181.110266 79.927275) (xy 181.944765 80.762755) (xy 181.948187 80.77103) (xy 181.945781 80.77813)
-				(xy 181.305512 81.615406) (xy 181.297764 81.619896) (xy 181.296218 81.619999) (xy 180.907782 81.619999)
-				(xy 180.899509 81.616572) (xy 180.898488 81.615406) (xy 180.258218 80.77813) (xy 180.255915 80.769477)
-				(xy 180.259232 80.762757) (xy 181.093723 79.927285) (xy 181.101993 79.923854)
-			)
-		)
-	)
-	(zone
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30111)
+		(priority 30110)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39441,7 +39031,7 @@
 		(net "Net-(Q6-G)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30038)
+		(priority 30037)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39505,7 +39095,7 @@
 		(net "+12V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30075)
+		(priority 30074)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39538,7 +39128,7 @@
 		(net "Net-(Q8-D)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30097)
+		(priority 30096)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39570,7 +39160,7 @@
 		(net "+12V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30126)
+		(priority 30125)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39603,7 +39193,7 @@
 		(net "/50v_Out")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30076)
+		(priority 30075)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39636,7 +39226,7 @@
 		(net "Net-(D2-K)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30057)
+		(priority 30056)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39672,7 +39262,7 @@
 		(net "/50v_IN")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30036)
+		(priority 30035)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39704,7 +39294,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30147)
+		(priority 30146)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39736,7 +39326,7 @@
 		(net "Net-(IC1-OUT)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30046)
+		(priority 30045)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39769,7 +39359,7 @@
 		(net "Net-(D2-K)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30148)
+		(priority 30147)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39801,7 +39391,7 @@
 		(net "Net-(FB3-Pad1)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30128)
+		(priority 30127)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39838,7 +39428,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30149)
+		(priority 30148)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39903,7 +39493,7 @@
 		(net "/BST")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30089)
+		(priority 30088)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39939,7 +39529,7 @@
 		(net "Net-(K2-NO)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30035)
+		(priority 30034)
 		(attr
 			(teardrop
 				(type padvia)
@@ -39976,7 +39566,7 @@
 		(net "Net-(Q2-G)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30112)
+		(priority 30111)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40009,7 +39599,7 @@
 		(net "Net-(C16-Pad2)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30062)
+		(priority 30061)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40045,7 +39635,7 @@
 		(net "/712OUT")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30168)
+		(priority 30167)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40079,7 +39669,7 @@
 		(net "Net-(D2-K)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30144)
+		(priority 30143)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40114,7 +39704,7 @@
 		(net "/i_sense")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30077)
+		(priority 30076)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40146,7 +39736,7 @@
 		(net "/712OUT")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30078)
+		(priority 30077)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40179,7 +39769,7 @@
 		(net "Net-(Q3-D)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30194)
+		(priority 30193)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40211,7 +39801,7 @@
 		(net "Net-(Q9-G)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30047)
+		(priority 30046)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40247,7 +39837,7 @@
 		(net "/BST")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30156)
+		(priority 30155)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40282,7 +39872,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30135)
+		(priority 30134)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40347,7 +39937,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30164)
+		(priority 30163)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40382,7 +39972,7 @@
 		(net "Net-(Q1-G)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30130)
+		(priority 30129)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40414,7 +40004,7 @@
 		(net "Net-(U1A--)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30096)
+		(priority 30095)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40480,7 +40070,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30187)
+		(priority 30186)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40513,7 +40103,7 @@
 		(net "/OSC")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30157)
+		(priority 30156)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40548,7 +40138,7 @@
 		(net "Net-(Q6-G)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30125)
+		(priority 30124)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40581,7 +40171,7 @@
 		(net "Net-(U1A--)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30122)
+		(priority 30121)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40614,7 +40204,7 @@
 		(net "Net-(D1-A)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30079)
+		(priority 30078)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40682,7 +40272,7 @@
 		(net "GND")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30173)
+		(priority 30172)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40712,7 +40302,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30150)
+		(priority 30149)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40745,7 +40335,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30158)
+		(priority 30157)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40777,7 +40367,7 @@
 		(net "Net-(U1A--)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30133)
+		(priority 30132)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40809,7 +40399,7 @@
 		(net "Net-(Q3-D)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30186)
+		(priority 30185)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40842,7 +40432,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30113)
+		(priority 30112)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40874,7 +40464,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30100)
+		(priority 30099)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40906,7 +40496,7 @@
 		(net "/50v_Out")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30048)
+		(priority 30047)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40939,7 +40529,7 @@
 		(net "Net-(Q9-G)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30151)
+		(priority 30150)
 		(attr
 			(teardrop
 				(type padvia)
@@ -40973,7 +40563,7 @@
 		(net "Net-(Q9-D)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30197)
+		(priority 30196)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41008,7 +40598,7 @@
 		(net "Net-(D1-A)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30059)
+		(priority 30058)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41077,7 +40667,7 @@
 		(net "+12V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30080)
+		(priority 30079)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41110,7 +40700,7 @@
 		(net "+12V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30139)
+		(priority 30138)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41143,7 +40733,7 @@
 		(net "Net-(Q2-G)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30127)
+		(priority 30126)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41176,7 +40766,7 @@
 		(net "Net-(Q1-G)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30195)
+		(priority 30194)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41273,7 +40863,7 @@
 		(net "/712OUT")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30049)
+		(priority 30048)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41338,7 +40928,7 @@
 		(net "/DISABLE")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30136)
+		(priority 30135)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41371,7 +40961,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30050)
+		(priority 30049)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41404,7 +40994,7 @@
 		(net "+12V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30092)
+		(priority 30091)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41437,7 +41027,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30081)
+		(priority 30080)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41470,7 +41060,7 @@
 		(net "/DISABLE")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30055)
+		(priority 30054)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41529,15 +41119,12 @@
 				(xy 191.273981 85.457475) (xy 191.27398 85.457475) (xy 191.286383 85.457576) (xy 194.056 85.480278)
 				(xy 194.056 100.63518) (xy 194.055999 100.635181) (xy 193.724751 100.636428) (xy 193.696756 100.632511)
 				(xy 193.678331 100.627177) (xy 193.619412 100.589629) (xy 193.618303 100.588359) (xy 193.590586 100.533376)
-				(xy 193.588881 100.525608) (xy 193.586 100.499032) (xy 193.586 99.854) (xy 192.939552 99.854) (xy 192.939551 99.854)
+				(xy 193.588881 100.525608) (xy 193.586 100.499032) (xy 193.586 99.904) (xy 192.889552 99.904) (xy 192.889551 99.904)
 				(xy 192.588479 100.205073) (xy 192.560228 100.226222) (xy 192.53714 100.23883) (xy 192.47771 100.254)
 				(xy 191.901639 100.254) (xy 191.866703 100.248977) (xy 191.841461 100.241565) (xy 191.788716 100.210269)
-				(xy 191.526735 99.948288) (xy 191.505584 99.920035) (xy 191.500161 99.910103) (xy 191.496372 99.892683)
-				(xy 191.49325 99.886965) (xy 191.493714 99.880465) (xy 191.487958 99.854) (xy 192.139552 99.854)
-				(xy 192.185999 99.900446) (xy 192.186 99.900446) (xy 192.186001 99.900446) (xy 192.232448 99.854)
-				(xy 192.232447 99.854) (xy 192.139553 99.854) (xy 192.139552 99.854) (xy 191.487958 99.854) (xy 191.485311 99.841832)
-				(xy 191.509728 99.776368) (xy 191.565658 99.734499) (xy 191.581354 99.728645) (xy 191.586 99.724)
-				(xy 191.586 99.584) (xy 191.585999 99.583998) (xy 191.579699 99.577698) (xy 191.568737 99.572693)
+				(xy 191.569511 99.991064) (xy 191.548359 99.962808) (xy 191.540867 99.949087) (xy 191.526015 99.880827)
+				(xy 191.526144 99.879018) (xy 191.545511 99.82082) (xy 191.549701 99.814301) (xy 191.566327 99.79367)
+				(xy 191.586 99.773998) (xy 191.586 99.584) (xy 191.585999 99.583998) (xy 191.579699 99.577698) (xy 191.568737 99.572693)
 				(xy 191.567521 99.572637) (xy 191.565549 99.571237) (xy 191.559349 99.568406) (xy 191.55989 99.567219)
 				(xy 191.551731 99.561427) (xy 191.53359 99.554659) (xy 191.52383 99.541619) (xy 191.510549 99.53219)
 				(xy 191.503326 99.514222) (xy 191.491724 99.498721) (xy 191.490563 99.482475) (xy 191.484488 99.467362)
@@ -41664,7 +41251,7 @@
 		(net "/50vAmp")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30183)
+		(priority 30182)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41695,7 +41282,7 @@
 		(net "/50vAmp")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30184)
+		(priority 30183)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41726,7 +41313,7 @@
 		(net "/DISABLE2")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30037)
+		(priority 30036)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41792,7 +41379,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30165)
+		(priority 30164)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41824,7 +41411,7 @@
 		(net "/712OUT")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30181)
+		(priority 30180)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41859,7 +41446,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30209)
+		(priority 30208)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41891,7 +41478,7 @@
 		(net "/50v_Out")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30145)
+		(priority 30144)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41926,7 +41513,7 @@
 		(net "/50vAmp")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30093)
+		(priority 30092)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41958,7 +41545,7 @@
 		(net "Net-(U1A-+)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30082)
+		(priority 30081)
 		(attr
 			(teardrop
 				(type padvia)
@@ -41991,7 +41578,7 @@
 		(net "Net-(IC1-OUT)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30174)
+		(priority 30173)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42023,7 +41610,7 @@
 		(net "Net-(D1-A)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30056)
+		(priority 30055)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42056,7 +41643,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30175)
+		(priority 30174)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42088,7 +41675,7 @@
 		(net "/DISABLE")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30180)
+		(priority 30179)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42121,7 +41708,7 @@
 		(net "Net-(IC1-OUT)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30040)
+		(priority 30039)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42154,7 +41741,7 @@
 		(net "/OSC")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30051)
+		(priority 30050)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42187,7 +41774,7 @@
 		(net "/DISABLE")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30061)
+		(priority 30060)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42253,7 +41840,7 @@
 		(net "/DISABLE2")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30039)
+		(priority 30038)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42321,7 +41908,7 @@
 		(net "Net-(J1-Pin_1)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30033)
+		(priority 30032)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42387,7 +41974,7 @@
 		(net "Net-(IC1-OUT)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30176)
+		(priority 30175)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42452,7 +42039,7 @@
 		(net "+12V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30083)
+		(priority 30082)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42485,7 +42072,7 @@
 		(net "/50vAmp")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30200)
+		(priority 30199)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42516,7 +42103,7 @@
 		(net "/50vAmp")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30201)
+		(priority 30200)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42547,7 +42134,7 @@
 		(net "Net-(IC1-OUT)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30114)
+		(priority 30113)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42579,7 +42166,7 @@
 		(net "/50vAmp")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30202)
+		(priority 30201)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42610,7 +42197,7 @@
 		(net "/50vAmp")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30203)
+		(priority 30202)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42641,7 +42228,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30159)
+		(priority 30158)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42673,7 +42260,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30177)
+		(priority 30176)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42706,7 +42293,7 @@
 		(net "Net-(D1-A)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30196)
+		(priority 30195)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42739,7 +42326,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30084)
+		(priority 30083)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42803,7 +42390,7 @@
 		(net "/BST")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30085)
+		(priority 30084)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42836,7 +42423,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30086)
+		(priority 30085)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42869,7 +42456,7 @@
 		(net "GND")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30212)
+		(priority 30211)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42900,7 +42487,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30178)
+		(priority 30177)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42933,7 +42520,7 @@
 		(net "+5V")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30087)
+		(priority 30086)
 		(attr
 			(teardrop
 				(type padvia)
@@ -42998,7 +42585,7 @@
 		(net "/INP")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30169)
+		(priority 30168)
 		(attr
 			(teardrop
 				(type padvia)
@@ -43031,7 +42618,7 @@
 		(net "Net-(D6-A)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30115)
+		(priority 30114)
 		(attr
 			(teardrop
 				(type padvia)
@@ -43064,7 +42651,7 @@
 		(net "/DISABLE")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30129)
+		(priority 30128)
 		(attr
 			(teardrop
 				(type padvia)
@@ -43097,7 +42684,7 @@
 		(net "/OSC")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30099)
+		(priority 30098)
 		(attr
 			(teardrop
 				(type padvia)
@@ -43196,7 +42783,7 @@
 		(net "Net-(U1A--)")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30088)
+		(priority 30087)
 		(attr
 			(teardrop
 				(type padvia)
